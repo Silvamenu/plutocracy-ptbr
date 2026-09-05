@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agents>
+  <agent_class>
+    <text id="class_1" need_translate="false" value="Cobrador"/>
+    <text id="class_10" need_translate="false" value="Cardeal"/>
+    <text id="class_11" need_translate="false" value="Lobista"/>
+    <text id="class_12" need_translate="false" value="Corretor"/>
+    <text id="class_13" need_translate="false" value="O Pianista"/>
+    <text id="class_14" need_translate="false" value="Provocador"/>
+    <text id="class_15" need_translate="false" value="Caça-Talentos"/>
+    <text id="class_2" need_translate="false" value="Cortesã"/>
+    <text id="class_3" need_translate="false" value="Detetive"/>
+    <text id="class_4" need_translate="false" value="Jornalista"/>
+    <text id="class_5" need_translate="false" value="Sabotador"/>
+    <text id="class_6" need_translate="false" value="Atirador de Elite"/>
+    <text id="class_7" need_translate="false" value="Diplomata"/>
+    <text id="class_8" need_translate="false" value="Financista"/>
+    <text id="class_9" need_translate="false" value="Capanga"/>
+  </agent_class>
+  <agent_result>
+    <text id="10_1_1_female" need_translate="false" value="Durante a confissão, falei sobre sua devoção a Deus e seus atos justos... Tenho certeza de que isso a tocou e vai melhorar a opinião dela sobre você!"/>
+    <text id="10_1_1_male" need_translate="false" value="Durante a confissão, falei sobre sua devoção a Deus e seus atos justos... Tenho certeza de que isso o tocou e vai melhorar a opinião dele sobre você!"/>
+    <text id="10_1_2_female" need_translate="false" value="Durante a confissão, falei sobre sua devoção a Deus e seus atos justos... Tenho certeza de que isso a tocou e vai melhorar a opinião dela sobre você!"/>
+    <text id="10_1_2_male" need_translate="false" value="Durante a confissão, falei sobre sua devoção a Deus e seus atos justos... Tenho certeza de que isso o tocou e vai melhorar a opinião dele sobre você!"/>
+    <text id="10_1_3_female" need_translate="false" value="Durante a confissão, falei sobre sua devoção a Deus e seus atos justos... Tenho certeza de que isso a tocou e vai melhorar a opinião dela sobre você!"/>
+    <text id="10_1_3_male" need_translate="false" value="Durante a confissão, falei sobre sua devoção a Deus e seus atos justos... Tenho certeza de que isso o tocou e vai melhorar a opinião dele sobre você!"/>
+    <text id="10_2_1_female" need_translate="false" value="Conversei com essa mulher, mas parece que meus conselhos entraram por um ouvido e saíram pelo outro. Talvez na próxima confissão ela esteja mais aberta às minhas orientações."/>
+    <text id="10_2_1_male" need_translate="false" value="Conversei com esse homem, mas parece que meus conselhos entraram por um ouvido e saíram pelo outro. Talvez na próxima confissão ele esteja mais aberto às minhas orientações."/>
+    <text id="10_2_2_female" need_translate="false" value="Conversei com essa mulher, mas parece que meus conselhos entraram por um ouvido e saíram pelo outro. Talvez na próxima confissão ela esteja mais aberta às minhas orientações."/>
+    <text id="10_2_2_male" need_translate="false" value="Conversei com esse homem, mas parece que meus conselhos entraram por um ouvido e saíram pelo outro. Talvez na próxima confissão ele esteja mais aberto às minhas orientações."/>
+    <text id="10_2_3_female" need_translate="false" value="Conversei com essa mulher, mas parece que meus conselhos entraram por um ouvido e saíram pelo outro. Talvez na próxima confissão ela esteja mais aberta às minhas orientações."/>
+    <text id="10_2_3_male" need_translate="false" value="Conversei com esse homem, mas parece que meus conselhos entraram por um ouvido e saíram pelo outro. Talvez na próxima confissão ele esteja mais aberto às minhas orientações."/>
+    <text id="10_3_1_female" need_translate="false" value="Assim que pronunciei seu nome, essa pessoa mudou de expressão na hora e saiu apressada da igreja. Não acredito que sua relação com ela possa melhorar tão cedo."/>
+    <text id="10_3_1_male" need_translate="false" value="Assim que pronunciei seu nome, essa pessoa mudou de expressão na hora e saiu apressada da igreja. Não acredito que sua relação com ele possa melhorar tão cedo."/>
+    <text id="10_3_2_female" need_translate="false" value="Assim que pronunciei seu nome, essa pessoa mudou de expressão na hora e saiu apressada da igreja. Não acredito que sua relação com ela possa melhorar tão cedo."/>
+    <text id="10_3_2_male" need_translate="false" value="Assim que pronunciei seu nome, essa pessoa mudou de expressão na hora e saiu apressada da igreja. Não acredito que sua relação com ele possa melhorar tão cedo."/>
+    <text id="10_3_3_female" need_translate="false" value="Assim que pronunciei seu nome, essa pessoa mudou de expressão na hora e saiu apressada da igreja. Não acredito que sua relação com ela possa melhorar tão cedo."/>
+    <text id="10_3_3_male" need_translate="false" value="Assim que pronunciei seu nome, essa pessoa mudou de expressão na hora e saiu apressada da igreja. Não acredito que sua relação com ele possa melhorar tão cedo."/>
+    <text id="1_1_1_female" need_translate="false" value="Quando tive uma conversinha com a devedora, ela tremia de medo! E entregou tudo o que tinha!"/>
+    <text id="1_1_1_male" need_translate="false" value="Quando tive uma conversinha com o devedor, ele tremia de medo! E entregou tudo o que tinha!"/>
+    <text id="1_1_2_female" need_translate="false" value="Quando tive uma conversinha com a devedora, ela tremia de medo! E entregou tudo o que tinha!"/>
+    <text id="1_1_2_male" need_translate="false" value="Quando tive uma conversinha com o devedor, ele tremia de medo! E entregou tudo o que tinha!"/>
+    <text id="1_1_3_female" need_translate="false" value="Quando tive uma conversinha com a devedora, ela tremia de medo! E entregou tudo o que tinha!"/>
+    <text id="1_1_3_male" need_translate="false" value="Quando tive uma conversinha com o devedor, ele tremia de medo! E entregou tudo o que tinha!"/>
+    <text id="1_2_1_female" need_translate="false" value="A devedora deixou a cidade. Revirei a cidade inteira atrás dessa mulher, e uma amiga dela disse que ela partiu recentemente para um destino desconhecido. Vamos esperar ela voltar?"/>
+    <text id="1_2_1_male" need_translate="false" value="O devedor deixou a cidade. Revirei a cidade inteira atrás desse homem, e um amigo dele disse que ele partiu recentemente para um destino desconhecido. Vamos esperar ele voltar?"/>
+    <text id="1_2_2_female" need_translate="false" value="A devedora deixou a cidade. Revirei a cidade inteira atrás dessa mulher, e uma amiga dela disse que ela partiu recentemente para um destino desconhecido. Vamos esperar ela voltar?"/>
+    <text id="1_2_2_male" need_translate="false" value="O devedor deixou a cidade. Revirei a cidade inteira atrás desse homem, e um amigo dele disse que ele partiu recentemente para um destino desconhecido. Vamos esperar ele voltar?"/>
+    <text id="1_2_3_female" need_translate="false" value="A devedora deixou a cidade. Revirei a cidade inteira atrás dessa mulher, e uma amiga dela disse que ela partiu recentemente para um destino desconhecido. Vamos esperar ela voltar?"/>
+    <text id="1_2_3_male" need_translate="false" value="O devedor deixou a cidade. Revirei a cidade inteira atrás desse homem, e um amigo dele disse que ele partiu recentemente para um destino desconhecido. Vamos esperar ele voltar?"/>
+    <text id="1_3_1_female" need_translate="false" value="Nenhuma ameaça surtiu efeito! Talvez você deva tentar métodos mais duros da próxima vez?"/>
+    <text id="1_3_1_male" need_translate="false" value="Nenhuma ameaça surtiu efeito! Talvez você deva tentar métodos mais duros da próxima vez?"/>
+    <text id="1_3_2_female" need_translate="false" value="Nenhuma ameaça surtiu efeito! Talvez você deva tentar métodos mais duros da próxima vez?"/>
+    <text id="1_3_2_male" need_translate="false" value="Nenhuma ameaça surtiu efeito! Talvez você deva tentar métodos mais duros da próxima vez?"/>
+    <text id="1_3_3_female" need_translate="false" value="Nenhuma ameaça surtiu efeito! Talvez você deva tentar métodos mais duros da próxima vez?"/>
+    <text id="1_3_3_male" need_translate="false" value="Nenhuma ameaça surtiu efeito! Talvez você deva tentar métodos mais duros da próxima vez?"/>
+    <text id="2_1_1_female" need_translate="false" value="Como sempre, todo mundo tem um esqueleto no armário... Acho que essa informação será suficiente para uma chantagem"/>
+    <text id="2_1_1_male" need_translate="false" value="Como sempre, todo mundo tem um esqueleto no armário... Acho que essa informação será suficiente para uma chantagem"/>
+    <text id="2_1_2_female" need_translate="false" value="Foi fáaacil demais... ela nem percebeu que me contou tudo o que eu queria..."/>
+    <text id="2_1_2_male" need_translate="false" value="Foi fáaacil demais... três doses e ele cantou como um passarinho..."/>
+    <text id="2_1_3_female" need_translate="false" value="No começo ela estava fora de alcance, mas digamos que amoleceu. Era isso que você queria"/>
+    <text id="2_1_3_male" need_translate="false" value="No começo ele parecia incorruptível... mas olha só no que deu"/>
+    <text id="2_2_1_female" need_translate="false" value="Inacreditável, ela era intocável!!! Não consegui nem falar com ela"/>
+    <text id="2_2_1_male" need_translate="false" value="Nunca vi nada igual!!! Ele é um grosso, um filho da mãe estúpido! Não consegui nem falar com ele"/>
+    <text id="2_2_2_female" need_translate="false" value="Fiz o meu melhor, mas não consegui obter o que você queria"/>
+    <text id="2_2_2_male" need_translate="false" value="Fiz o meu melhor, mas não consegui obter o que você queria"/>
+    <text id="2_2_3_female" need_translate="false" value="Deu em nada... só falou de mim... sabe como é, ela toma muito cuidado com o que diz"/>
+    <text id="2_2_3_male" need_translate="false" value="Deu em nada... só falou de mim... sabe como é, ele é um homem que toma muito cuidado com o que diz"/>
+    <text id="2_3_1_female" need_translate="false" value="Ela me leu como um livro aberto. Em dois segundos, perguntou: “Quem te mandou?"/>
+    <text id="2_3_1_male" need_translate="false" value="Ele me leu como um livro aberto. Em dois segundos, perguntou: “Quem te mandou?"/>
+    <text id="2_3_2_female" need_translate="false" value="Não sei como, mas fomos traídos. Acho que você vai ter problemas."/>
+    <text id="2_3_2_male" need_translate="false" value="Não sei como, mas fomos traídos. Acho que você vai ter problemas."/>
+    <text id="2_3_3_female" need_translate="false" value="Alguém deu com a língua nos dentes, vai dar encrenca."/>
+    <text id="2_3_3_male" need_translate="false" value="Alguém deu com a língua nos dentes, vai dar encrenca."/>
+    <text id="3_1_1_female" need_translate="false" value="A gente é muito bom nisso — foi moleza."/>
+    <text id="3_1_1_male" need_translate="false" value="A gente é muito bom nisso — foi moleza."/>
+    <text id="3_1_2_female" need_translate="false" value="Joguei minhas cartas direitinho... acho que é isso que você queria."/>
+    <text id="3_1_2_male" need_translate="false" value="Joguei minhas cartas direitinho... acho que é isso que você queria."/>
+    <text id="3_1_3_female" need_translate="false" value="Isso vai ser o bastante para meter alguém numa baita enrascada!"/>
+    <text id="3_1_3_male" need_translate="false" value="Isso vai ser o bastante para meter alguém numa baita enrascada!"/>
+    <text id="3_2_1_female" need_translate="false" value="Não consegui encontrar nada útil para você. Parece limpo como uma flor."/>
+    <text id="3_2_1_male" need_translate="false" value="Não consegui encontrar nada útil para você. Parece limpo como uma flor."/>
+    <text id="3_2_2_female" need_translate="false" value="Infelizmente, não consegui desenterrar sujeira sobre ela."/>
+    <text id="3_2_2_male" need_translate="false" value="Infelizmente, não consegui desenterrar sujeira sobre ele."/>
+    <text id="3_2_3_female" need_translate="false" value="Nosso homem sumiu! Não conseguimos nada"/>
+    <text id="3_2_3_male" need_translate="false" value="Nosso homem sumiu! Não conseguimos nada"/>
+    <text id="3_3_1_female" need_translate="false" value="As coisas ficaram feias... e mesmo assim voltamos de mãos vazias. Pode dar encrenca."/>
+    <text id="3_3_1_male" need_translate="false" value="As coisas ficaram feias... e mesmo assim voltamos de mãos vazias. Pode dar encrenca."/>
+    <text id="3_3_2_female" need_translate="false" value="Acontece que ele é peixe graúdo. Infelizmente, fui desmascarado..."/>
+    <text id="3_3_2_male" need_translate="false" value="Acontece que ele é peixe graúdo. Infelizmente, fui desmascarado..."/>
+    <text id="3_3_3_female" need_translate="false" value="Ela é protegida por um promotor... Tive que encerrar o caso. Não quero me precipitar, mas acho que vai ter retaliação"/>
+    <text id="3_3_3_male" need_translate="false" value="Ele é protegido por um promotor... Tive que encerrar o caso. Não quero me precipitar, mas acho que vai ter retaliação"/>
+    <text id="4_1_1_female" need_translate="false" value="Ótima informação! Com certeza causou impacto."/>
+    <text id="4_1_1_male" need_translate="false" value="Ótima informação! Com certeza causou impacto."/>
+    <text id="4_1_2_female" need_translate="false" value="Vai ser um sucesso! Descobrimos algo bem interessante!"/>
+    <text id="4_1_2_male" need_translate="false" value="Vai ser um sucesso! Descobrimos algo bem interessante!"/>
+    <text id="4_1_3_female" need_translate="false" value="Está publicado na primeira página do jornal!!! A “bomba” foi detonada!"/>
+    <text id="4_1_3_male" need_translate="false" value="Está publicado na primeira página do jornal!!! A “bomba” foi detonada!"/>
+    <text id="4_2_1_female" need_translate="false" value="O editor-chefe se recusou a publicar minha matéria porque não achou provas suficientes"/>
+    <text id="4_2_1_male" need_translate="false" value="O editor-chefe se recusou a publicar minha matéria porque não achou provas suficientes"/>
+    <text id="4_2_2_female" need_translate="false" value="Disseram que isso não é notícia."/>
+    <text id="4_2_2_male" need_translate="false" value="Disseram que isso não é notícia."/>
+    <text id="4_2_3_female" need_translate="false" value="A coisa está quente demais agora — e estão de olho na gente."/>
+    <text id="4_2_3_male" need_translate="false" value="A coisa está quente demais agora — e estão de olho na gente."/>
+    <text id="4_3_1_female" need_translate="false" value="Fomos cobrados por causa da informação. Vai ter uma investigação."/>
+    <text id="4_3_1_male" need_translate="false" value="Fomos cobrados por causa da informação. Vai ter uma investigação."/>
+    <text id="4_3_2_female" need_translate="false" value="A matéria foi retirada por falta de comprovação..."/>
+    <text id="4_3_2_male" need_translate="false" value="A matéria foi retirada por falta de comprovação..."/>
+    <text id="4_3_3_female" need_translate="false" value="Um desmentido de outro jornalista foi publicado. Acho que você não deve esperar um resultado positivo"/>
+    <text id="4_3_3_male" need_translate="false" value="Um desmentido de outro jornalista foi publicado. Acho que você não deve esperar um resultado positivo"/>
+    <text id="6_1_1_female" need_translate="false" value="Serviço feito e tivemos tempo de sobra para limpar a cena — Relaxa!"/>
+    <text id="6_1_1_male" need_translate="false" value="Serviço feito e tivemos tempo de sobra para limpar a cena — Relaxa!"/>
+    <text id="6_1_2_female" need_translate="false" value="Está feito, senhora! Demorou bem mais do que o esperado"/>
+    <text id="6_1_2_male" need_translate="false" value="Está feito, senhor! Demorou bem mais do que o esperado"/>
+    <text id="6_1_3_female" need_translate="false" value="Fiz a minha parte! Dizem que, se você quer ter menos inimigos, faça amizade com um matador de aluguel!"/>
+    <text id="6_1_3_male" need_translate="false" value="Fiz a minha parte! Dizem que, se você quer ter menos inimigos, faça amizade com um matador de aluguel!"/>
+    <text id="6_2_1_female" need_translate="false" value="Infelizmente, o alvo continua vivo — algo deu errado e fui obrigado a me esconder. Terei prazer em tentar de novo"/>
+    <text id="6_2_1_male" need_translate="false" value="Infelizmente, o alvo continua vivo — algo deu errado e fui obrigado a me esconder. Terei prazer em tentar de novo"/>
+    <text id="6_2_2_female" need_translate="false" value="O alvo estava com a segurança reforçada — não consegui completar a missão"/>
+    <text id="6_2_2_male" need_translate="false" value="O alvo estava com a segurança reforçada — não consegui completar a missão"/>
+    <text id="6_2_3_female" need_translate="false" value="Tinha uma criança lá... Precisamos de outra abordagem"/>
+    <text id="6_2_3_male" need_translate="false" value="Tinha uma criança lá... Precisamos de outra abordagem"/>
+    <text id="6_3_1_female" need_translate="false" value="Acho que alguém descobriu sobre o serviço — o alvo escapou"/>
+    <text id="6_3_1_male" need_translate="false" value="Acho que alguém descobriu sobre o serviço — o alvo escapou"/>
+    <text id="6_3_2_female" need_translate="false" value="Tivemos um problema. Um passante viu bem o meu rosto. Pode dar encrenca."/>
+    <text id="6_3_2_male" need_translate="false" value="Tivemos um problema. Um passante viu bem o meu rosto. Pode dar encrenca."/>
+    <text id="6_3_3_female" need_translate="false" value="A polícia cercou o prédio... por sorte havia uma janela no porão e escapei, mas pode ter ficado um rastro até nós."/>
+    <text id="6_3_3_male" need_translate="false" value="A polícia cercou o prédio... por sorte havia uma janela no porão e escapei, mas pode ter ficado um rastro até nós."/>
+    <text id="9_1_1_female" need_translate="false" value="Como esperado, ele estava desesperado para negociar — vai encontrar você no meio do caminho"/>
+    <text id="9_1_1_male" need_translate="false" value="Como esperado, ele estava desesperado para negociar — vai encontrar você no meio do caminho"/>
+    <text id="9_1_2_female" need_translate="false" value="O cliente foi convencido a considerar a sua oferta..."/>
+    <text id="9_1_2_male" need_translate="false" value="O cliente foi convencido a considerar a sua oferta..."/>
+    <text id="9_1_3_female" need_translate="false" value="Ficar pendurado de cabeça para baixo no parapeito do 8º andar fez maravilhas pela compreensão que ele tem do nosso ponto de vista"/>
+    <text id="9_1_3_male" need_translate="false" value="Ficar pendurado de cabeça para baixo no parapeito do 8º andar fez maravilhas pela compreensão que ele tem do nosso ponto de vista"/>
+    <text id="9_2_1_female" need_translate="false" value="Infelizmente, não consegui pegá-la lá. Provavelmente ela sabia que eu ia fazer uma visitinha... agora está se escondendo de mim"/>
+    <text id="9_2_1_male" need_translate="false" value="Infelizmente, não consegui pegá-la lá. Provavelmente ela sabia que eu ia fazer uma visitinha... agora está se escondendo de mim"/>
+    <text id="9_2_2_female" need_translate="false" value="Não consegui completar a missão. Havia guardas demais. Mais sorte da próxima vez..."/>
+    <text id="9_2_2_male" need_translate="false" value="Não consegui completar a missão. Havia guardas demais. Mais sorte da próxima vez..."/>
+    <text id="9_2_3_female" need_translate="false" value="Alguém chamou a polícia... Tive que despistar. Vou ser mais cuidadoso da próxima vez."/>
+    <text id="9_2_3_male" need_translate="false" value="Alguém chamou a polícia... Tive que despistar. Vou ser mais cuidadoso da próxima vez."/>
+    <text id="9_3_1_female" need_translate="false" value="Fui longe demais e ela está no hospital. Pior ainda, ela registrou queixa na polícia!"/>
+    <text id="9_3_1_male" need_translate="false" value="Fui longe demais e ela está no hospital. Pior ainda, ela registrou queixa na polícia!"/>
+    <text id="9_3_2_female" need_translate="false" value="Não tive escolha, estava encurralado... e essa maldita secretária chamou os tiras. Por sorte, meu irmão tem um contato na delegacia. É bom você se preparar para visitas indesejadas, só por precaução"/>
+    <text id="9_3_2_male" need_translate="false" value="Não tive escolha, estava encurralado... e essa maldita secretária chamou os tiras. Por sorte, meu irmão tem um contato na delegacia. É bom você se preparar para visitas indesejadas, só por precaução"/>
+    <text id="9_3_3_female" need_translate="false" value="Me empolguei com a “entrevista” e os vizinhos chamaram a polícia. Escapei, mas provavelmente deixei impressões digitais"/>
+    <text id="9_3_3_male" need_translate="false" value="Me empolguei com a “entrevista” e os vizinhos chamaram a polícia. Escapei, mas provavelmente deixei impressões digitais"/>
+    <text id="agent_failed" need_translate="false" value="O agente falhou na missão e deixou pistas que levam até você. O Chefe de Polícia está no seu encalço agora."/>
+    <text id="agent_on_suspect" need_translate="false" value="O agente falhou na missão. Chance de prisão = %1%"/>
+    <text id="bandit_guard_fail" need_translate="false" value="%1 e seu pessoal chegaram em %2 para a segurança. Infelizmente, isso não causou nenhuma mudança significativa."/>
+    <text id="bandit_guard_risk" need_translate="false" value="%1 e seu pessoal chegaram em %2 para a segurança. Os trabalhadores manifestam insatisfação com a presença de elementos criminosos. O risco de greve na empresa vai dobrar até o fim do trimestre."/>
+    <text id="bandit_guard_success" need_translate="false" value="%1 e seu pessoal chegaram em %2 para a segurança. A empresa recebeu imunidade a greves e acidentes até o fim do trimestre atual."/>
+    <text id="bandit_make_dummy_fail" need_translate="false" value="%1 não é uma pessoa medrosa... Apesar de todas as ameaças, nunca consegui fazê-lo concordar em seguir suas ordens."/>
+    <text id="bandit_make_dummy_risk" need_translate="false" value="A segurança em {person} se mostrou séria demais! Um dos meus caras foi capturado, os tiras vão arrancar tudo dele e vão colocar a mim e a toda a minha gangue na lista de procurados. Assim que a poeira baixar, estarei de novo ao seu dispor!"/>
+    <text id="bandit_make_dummy_success" need_translate="false" value="Chefe, correu tudo como um relógio. Aquela trapinha desmaiou quando viu o ferro em brasa. Garanto que seus argumentos foram ouvidos.&lt;br&gt;%1 - completamente leal a você."/>
+    <text id="bandit_strike_fail" need_translate="false" value="%1 se infiltrou com sucesso em %2 para organizar uma greve. No entanto, não foi possível organizar uma greve entre os trabalhadores."/>
+    <text id="bandit_strike_risk" need_translate="false" value="%1 não conseguiu se infiltrar em %2 para organizar uma greve. A má fama do capanga pregou uma peça e agora ele terá que se esconder por pelo menos um ano. Além disso, a empresa descobriu o seu contato com o capanga, o que com certeza vai arruinar a sua reputação."/>
+    <text id="bandit_strike_success" need_translate="false" value="%1 se infiltrou com sucesso em %2 para organizar uma greve. Ele conseguiu organizar uma greve entre os trabalhadores das empresas."/>
+    <text id="broker_fail_text" need_translate="false" value="Infelizmente, não consegui atrair atenção para as ações da empresa %2. Há notícias mais quentes em Wall Street no momento..."/>
+    <text id="broker_risk_text" need_translate="false" value="A situação está fora de controle... Alguém vazou informações para os ouvidos errados, e Wall Street descobriu nosso plano. Por cerca de um ano, não vou poder mais ajudar, até a poeira baixar."/>
+    <text id="broker_success_text" need_translate="false" value="%1 concluiu a tarefa com sucesso. As pessoas certas receberam as instruções necessárias e, a partir de amanhã, podemos esperar um burburinho em torno das ações da empresa %2"/>
+    <text id="detective_blackmail_fail" need_translate="false" value="{styles}A sujeira não teve efeito sobre {nickname}. A relação com ele está arruinada e {nickname} está de olho em você... Você pode tentar se acertar ou levar isso para o próximo nível..."/>
+    <text id="detective_blackmail_success" need_translate="false" value="{styles}Bem, {nickname} caiu na conversa. Você não precisa mais de influência para fechar acordos com ele, pedir que ele defenda algum projeto de lei e assim por diante"/>
+    <text id="financier_fail_text" need_translate="false" value="Infelizmente, não consegui encontrar uma brecha legal que pudéssemos usar."/>
+    <text id="financier_risk_text" need_translate="false" value="O Fisco conseguiu expor nosso esquema de sonegação de impostos... E você agora enfrenta uma multa pesada! E eu vou ter que sumir por um ano para não acabar na cadeia. Portanto, estarei indisponível no futuro próximo."/>
+    <text id="financier_success_text" need_translate="false" value="Consegui arranjar as coisas de modo que o Fisco não receba um centavo dos seus lucros neste trimestre."/>
+    <text id="fireman_fail_text" need_translate="false" value="O sabotador %1 não conseguiu evitar um encontro com a segurança de %2. Algo deu errado."/>
+    <text id="fireman_risk_text" need_translate="false" value="O sabotador %1 foi pego pela segurança de %2. Não houve danos, e o espião foi detido pela polícia"/>
+    <text id="fireman_success_text" need_translate="false" value="O sabotador %1 teve sucesso contra %2. Os promotores estão investigando..."/>
+    <text id="headhunter_fail" need_translate="false" value="Infelizmente, o Caça-Talentos nunca conseguiu entrar em contato com {person}. O diretor recusou todas as propostas de reunião, alegando excesso de trabalho."/>
+    <text id="headhunter_risk" need_translate="false" value="Com sua insistência, o Caça-Talentos provocou a ira de {person}. O diretor e os acionistas da empresa administrada souberam o nome do contratante e passaram a tratá-lo pior."/>
+    <text id="headhunter_success" need_translate="false" value="Depois de várias reuniões, o Caça-Talentos conseguiu convencer {person} a deixar o emprego anterior e ir trabalhar na sua empresa."/>
+    <text id="journalist_fail" need_translate="false" value="O jornalista não conseguiu passar a reportagem pelo editor. Pior ainda, ele foi fuçar e descobriu a verdade... A reputação mudou em {reputation_change}."/>
+    <text id="journalist_success" need_translate="false" value="A publicação foi um estouro! A reputação de {nickname} mudou em {reputation_change}."/>
+    <text id="killer_fail_text" need_translate="false" value="%1 não se feriu! O assassino conseguiu escapar da polícia."/>
+    <text id="killer_risk_text" need_translate="false" value="O assassino foi detido pela polícia. %1 não se feriu. Provavelmente você deveria tomar providências para se livrar da testemunha antes que ele deponha à polícia..."/>
+    <text id="killer_success1_text" need_translate="false" value="A bala do atirador atingiu tecidos moles de %1. Não há risco de vida, mas o personagem passará %2 dias no hospital e não poderá participar ativamente dos próximos acontecimentos. O atirador passou despercebido."/>
+    <text id="killer_success2_text" need_translate="false" value="Um tiro certeiro atingiu o alvo. %1 não causará mais problemas. Talvez o herdeiro dele seja mais receptivo!"/>
+    <text id="lobbyist_fail_text" need_translate="false" value="Fiz tudo o que estava ao meu alcance, mas desta vez os parlamentares se mantiveram irredutíveis. Talvez, se você me der outra chance, eu ainda consiga convencê-los."/>
+    <text id="lobbyist_risk_text" need_translate="false" value="Infelizmente, o projeto de lei em discussão causou repercussão demais na sociedade. Não tenho chance de convencer os parlamentares a votar contra suas convicções."/>
+    <text id="lobbyist_success_text" need_translate="false" value="Bem, parabéns, %1 parlamentares vão mudar de posição. Vale notar que não foi tão «difícil» assim."/>
+    <text id="pianist_fail" need_translate="false" value="Infelizmente, o concerto não causou a impressão devida nos trabalhadores da sua empresa. Mas pelo menos não piorei as coisas..."/>
+    <text id="pianist_risk" need_translate="false" value="O concerto do Pianista foi interrompido por provocadores entre os trabalhadores, que aproveitaram a reunião geral para agitar a multidão em apoio à greve. &lt;br&gt;&lt;br&gt;O risco de greve ficou &lt;font face='Phenomena ExtraBold'&gt;2&lt;/font&gt; vezes maior do que antes.&lt;br&gt;O Pianista estará disponível novamente não antes de {date}."/>
+    <text id="pianist_success" need_translate="false" value="Os trabalhadores, fascinados pela magia da música do Pianista, reduziram temporariamente todas as suas reivindicações.&lt;br&gt;&lt;br&gt;O risco de greve em {company} caiu para &lt;font face='Phenomena ExtraBold'&gt;0&lt;/font&gt; e voltará ao valor normal ao longo de {quarters} trimestres."/>
+    <text id="provoker_strike_fail" need_translate="false" value="Infelizmente, o Provocador nunca conseguiu entrar na empresa %1. O serviço de segurança local o pegou várias vezes e o expulsou do território. A agitação dos trabalhadores fora da empresa também não teve sucesso."/>
+    <text id="provoker_strike_risk" need_translate="false" value="Durante a organização da greve em %1, houve um atentado contra o Provocador. Ele está no hospital agora. A multidão foi dispersada sem líder, e os ativistas capturados revelaram o nome do contratante. Correm boatos sobre os seus métodos sujos."/>
+    <text id="provoker_strike_success" need_translate="false" value="Não foi difícil para o Provocador entrar na empresa %1. Identificar os motivos do descontentamento geral e os ativistas, agitar os trabalhadores — a greve começou."/>
+  </agent_result>
+  <agents_bandit>
+    <text id="description" need_translate="false" value="Esse brutamontes tem exatamente o histórico que você imaginaria. Com a ascensão do capitalismo e um sistema legal praticamente desdentado, sua inteligência, determinação e habilidade com armas o marcam como um eficiente “soldado da fortuna”. Se você precisar dos serviços dele, esteja pronto para pagar bem."/>
+    <text id="dossier_description" need_translate="false" value="Um bandido e seus comparsas esperam a vítima e então, com ameaças e intimidação, a forçam a se tornar completamente leal a você."/>
+    <text id="dossier_header" need_translate="false" value="Intimidação"/>
+    <text id="effect" need_translate="false" value="Torna qualquer personagem (exceto o Oponente) leal a você."/>
+    <text id="name" need_translate="false" value="Jesse"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value="%1 está com medo"/>
+    <text id="surname" need_translate="false" value="Hume"/>
+  </agents_bandit>
+  <agents_broker>
+    <text id="description" need_translate="false" value="Larry Williams é um daqueles caras que sabem como causar alvoroço em Wall Street. Ele tem no arsenal uma rica experiência de corretor, o que lhe permite despertar habilmente o interesse pelas ações de qualquer empresa ou, ao contrário, provocar pânico e a queda de suas cotações. No bolso, ele carrega os contatos dos investidores mais ricos de Nova York e dos EUA, que usam seus serviços de corretagem. Por isso, não é difícil para ele manipular com destreza as cotações de praticamente qualquer empresa, de qualquer tamanho."/>
+    <text id="dossier_description" need_translate="false" value="O preço das ações da empresa selecionada vai subir/cair por alguns dias e depois retornar ao valor de mercado."/>
+    <text id="dossier_header" need_translate="false" value="Aumento/redução de preço"/>
+    <text id="effect" need_translate="false" value="Manipula as cotações na Bolsa de Valores por um curto período"/>
+    <text id="name" need_translate="false" value="Larry"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Williams"/>
+  </agents_broker>
+  <agents_cardinal>
+    <text id="description" need_translate="false" value="Só o santo Padre sabe como aquecer um coração frio! Ele é o Pai de todos nós... Afinal, os paroquianos estão sempre prontos a lhe contar seus pecados"/>
+    <text id="dossier_description" need_translate="false" value="O bispo vai aumentar a lealdade de qualquer personagem profundamente religioso a você. Não é possível aplicar a um ateu."/>
+    <text id="dossier_header" need_translate="false" value="Orientação do confessor"/>
+    <text id="effect" need_translate="false" value="Aumenta a lealdade de qualquer personagem (mesmo inimigo)"/>
+    <text id="name" need_translate="false" value="Padre"/>
+    <text id="risk" need_translate="false" value="Em desenvolvimento"/>
+    <text id="short_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="surname" need_translate="false" value="Michael"/>
+  </agents_cardinal>
+  <agents_courtesan>
+    <text id="description" need_translate="false" value="Poly Adler é uma mulher enigmática e uma verdadeira sedutora. Ainda cedo na vida, ela entendeu que um amante rico e influente é o passaporte para uma vida feliz! Ela se infiltrou nos círculos da alta sociedade, colhendo informações úteis de seus alvos, especialmente homens casados. Ela escuta — e negocia — todos os segredos de seus amantes."/>
+    <text id="dossier_description" need_translate="false" value="Reduz a 1 os níveis das habilidades de &quot;Economia&quot;, &quot;Diplomacia&quot; e &quot;Política&quot; do alvo por 90 dias. Ao fim desse período, as habilidades do alvo voltam ao normal."/>
+    <text id="dossier_header" need_translate="false" value="Sedução"/>
+    <text id="effect" need_translate="false" value="Zera as habilidades de &quot;Diplomacia&quot; e &quot;Economia&quot; do personagem e zera a &quot;Influência&quot; para as próximas negociações"/>
+    <text id="name" need_translate="false" value="Poly"/>
+    <text id="risk" need_translate="false" value="Em desenvolvimento"/>
+    <text id="short_description" need_translate="false" value="%1 está fisgado. Os pontos de influência necessários para desbloquear foram reduzidos"/>
+    <text id="surname" need_translate="false" value="Adler"/>
+  </agents_courtesan>
+  <agents_detective>
+    <text id="description" need_translate="false" value="O melhor detetive de toda a América sabe como conseguir informações capazes de matar alguém. Ele não se importa com o que o cliente faz com elas — vai chantagear o alvo para torná-lo completamente leal, ou simplesmente publicá-las na imprensa. A tarefa dele é conseguir sujeira a qualquer custo. E nisso ele é o melhor."/>
+    <text id="dossier_description" need_translate="false" value="O detetive está disposto a fuçar o passado obscuro de qualquer um para conseguir sujeira relevante em troca dos honorários recebidos. Quanto pior a reputação do personagem, maior a chance de o detetive reunir sujeira sobre ele."/>
+    <text id="dossier_header" need_translate="false" value="Busca de material comprometedor"/>
+    <text id="effect" need_translate="false" value="Procura provas comprometedoras sobre um personagem"/>
+    <text id="name" need_translate="false" value="Grant"/>
+    <text id="risk" need_translate="false" value="Em desenvolvimento"/>
+    <text id="short_description" need_translate="false" value="%1 está comprometido"/>
+    <text id="surname" need_translate="false" value="Hills"/>
+  </agents_detective>
+  <agents_diplomat>
+    <text id="description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="dossier_description" need_translate="false" value=""/>
+    <text id="dossier_header" need_translate="false" value=""/>
+    <text id="effect" need_translate="false" value="Descrição do cartão do agente"/>
+    <text id="name" need_translate="false" value="Mal"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Goodman"/>
+  </agents_diplomat>
+  <agents_financier>
+    <text id="description" need_translate="false" value="Fraude contábil complexa, que Frank chama de &quot;otimização tributária&quot;, é a especialidade dele. Financista talentoso, formado em Harvard com louvor, Frank é capaz de tirar da tributação uma parcela significativa da receita de qualquer empresa! Frank não se importa nem um pouco com o lado moral da questão. Por isso, sua especialidade passou a ser a busca de brechas na legislação tributária, na qual ele é realmente bom... Corre até o boato de que ele trabalha para uma influente máfia internacional, lavando o dinheiro dela nos Estados Unidos, o que lhe rendeu o apelido de &quot;Banqueiro Sujo&quot; nos círculos financeiros restritos de Nova York."/>
+    <text id="dossier_description" need_translate="false" value="O financista, usando esquemas de evasão fiscal, permite que a sua empresa evite o pagamento de impostos no trimestre atual."/>
+    <text id="dossier_header" need_translate="false" value="Brechas na legislação"/>
+    <text id="effect" need_translate="false" value="Permite que a sua empresa evite completamente os impostos no trimestre atual."/>
+    <text id="name" need_translate="false" value="Frank"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Silverstone"/>
+  </agents_financier>
+  <agents_fireman>
+    <text id="description" need_translate="false" value="Ele é veterano de guerras em vários continentes e ficou conhecido como “Jason Louco” depois de explodir depósitos de munição bem à vista de uma patrulha inimiga. Brincava com pólvora quando criança e uma vez levou uma banana de dinamite explodindo na cara. Não é especialmente motivado por dinheiro, mas se convence facilmente com dinamite e algumas palavras bem escolhidas sobre um alvo."/>
+    <text id="dossier_description" need_translate="false" value="Um agente organiza uma sabotagem em uma empresa concorrente — destrói prédios, provocando um incêndio ou, na pior das hipóteses, uma explosão."/>
+    <text id="dossier_header" need_translate="false" value="Sabotagem"/>
+    <text id="effect" need_translate="false" value="Provoca um acidente na empresa escolhida"/>
+    <text id="name" need_translate="false" value="Jason"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Stigitz"/>
+  </agents_fireman>
+  <agents_headhunter>
+    <text id="description" need_translate="false" value="Mark Taller sabe tudo sobre todo mundo. Ele tem um enorme banco de dados de informações privilegiadas sobre as condições de trabalho em muitas empresas dos EUA. O alto grau de informação e a esperteza inata de Mark tornam possível convencer qualquer interlocutor da necessidade de mudar de emprego... E então, como que por sorte, apontar outro lugar onde os talentos do interlocutor certamente serão valorizados. Um caça-talentos pode ser essencial se, por exemplo, você precisar roubar um CEO valioso dos concorrentes."/>
+    <text id="dossier_description" need_translate="false" value="O Caça-Talentos vai se encontrar com o CEO de uma empresa concorrente e tentar convencê-lo a deixar o cargo, prometendo uma posição mais promissora em uma das suas empresas."/>
+    <text id="dossier_header" need_translate="false" value="Caça de talentos"/>
+    <text id="effect" need_translate="false" value="Atrai o CEO de outra empresa para trabalhar na empresa escolhida"/>
+    <text id="name" need_translate="false" value="Mark"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Taller"/>
+  </agents_headhunter>
+  <agents_journalist>
+    <text id="description" need_translate="false" value="Harry é autor de muitas matérias escandalosas, como jornalista sênior do “The New York Herald». Como diligente correspondente de finanças, ele tem um faro apurado para fraudes financeiras. Adora expor a sujeira de políticos e autoridades de destaque. Se você precisa tirar alguém do cargo ou eliminar um concorrente, Harry Copper terá prazer em ajudar!"/>
+    <text id="dossier_description" need_translate="false" value="O jornalista vai escrever uma matéria positiva (ou negativa, usando material comprometedor) que, se bem-sucedida, vai melhorar (ou, respectivamente, piorar) a reputação do personagem."/>
+    <text id="dossier_header" need_translate="false" value="Matéria elogiosa/difamatória"/>
+    <text id="effect" need_translate="false" value="Diminui ou aumenta a reputação dos personagens"/>
+    <text id="name" need_translate="false" value="Harry"/>
+    <text id="risk" need_translate="false" value="Em desenvolvimento"/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Copper"/>
+  </agents_journalist>
+  <agents_killer>
+    <text id="description" need_translate="false" value="“Falcão Fulminante” caçava animais desde a infância, sabia ler rastros e era o melhor rastreador e caçador de cervos do Meio-Oeste. Aos 15 anos, durante uma ausência sua para caçar, sua tribo foi completamente incendiada por um corpo punitivo do exército, e todos os seus antepassados e parentes foram fuzilados. Desde então, o “Falcão Fulminante” se transformou em um atirador solitário e inapreensível, transformando cada disparo de seu rifle Sharps capturado na morte de alguém. Em casos especiais, ele sacava seu machado e agia em silêncio, entrando na casa e escalpelando a vítima durante o sono. Dizia-se que ele queria reunir exatamente tantos escalpos quantas foram as pessoas mortas em sua tribo."/>
+    <text id="dossier_description" need_translate="false" value="O atirador pode tentar assassinar o personagem selecionado."/>
+    <text id="dossier_header" need_translate="false" value="Assassinato de encomenda"/>
+    <text id="effect" need_translate="false" value="Mata ou fere um personagem"/>
+    <text id="name" need_translate="false" value="Falcão"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value="%1 foi morto"/>
+    <text id="surname" need_translate="false" value="Fulminante"/>
+  </agents_killer>
+  <agents_lobbyist>
+    <text id="description" need_translate="false" value="John Dow é tão hábil em oratória, manipulação e lobby que consegue convencer grupos inteiros de políticos a votar de determinada maneira. Ele tem muita experiência em disputas de bastidores e intrigas políticas, então, por uma pequena fração do seu dinheiro, ele vai convencer com prazer os políticos de que suas opiniões sobre o projeto de lei proposto deveriam ser exatamente as opostas."/>
+    <text id="dossier_description" need_translate="false" value="Independentemente de você querer &quot;aprovar&quot; ou &quot;afundar&quot; o projeto de lei, o lobista vai tentar conseguir para você os votos dos parlamentares em qualquer uma das câmaras do parlamento."/>
+    <text id="dossier_header" need_translate="false" value="Assistência de lobby"/>
+    <text id="effect" need_translate="false" value="Faz lobby pelo projeto de lei na câmara selecionada."/>
+    <text id="name" need_translate="false" value="John"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Dow"/>
+  </agents_lobbyist>
+  <agents_pianist>
+    <text id="description" need_translate="false" value="Donald Green, apelidado de “Don Cego&quot;, nasceu completamente cego. Aos 4 anos, aprendeu sozinho várias composições complexas de Chopin em um piano velho na casa de aristocratas da Louisiana, onde seu pai trabalhava como jardineiro.&lt;br&gt;Don se revelou tão dotado que, a partir dos 6 anos, pessoas entendidas em música se interessaram por ele e organizaram sua primeira turnê pelos estados do sul. E depois, quando o menino prodígio causou alvoroço e boatos sobre seu dom divino começaram a se espalhar, ele passou a excursionar regularmente, lotando salas e colhendo ovações em todas as cidades por onde passava, levando ouvintes dos mais variados calibres, incluindo até o presidente dos Estados Unidos, a se emocionar com seu domínio virtuoso do piano."/>
+    <text id="dossier_description" need_translate="false" value="Depois do concerto, a greve pode parar, e o risco atual de que ela ocorra vai cair a 0 por um tempo!"/>
+    <text id="dossier_header" need_translate="false" value=""/>
+    <text id="effect" need_translate="false" value="Reduz o risco de greve e interrompe uma que já esteja em andamento"/>
+    <text id="name" need_translate="false" value="Donald"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Green"/>
+  </agents_pianist>
+  <agents_provoker>
+    <text id="description" need_translate="false" value="Karl nasceu em uma família simples. Seu pai trabalhou por muito tempo como lenhador comum na Virgínia, até que uma árvore caída quebrou a coluna do coitado. Apesar de muitos anos de serviço fiel, o patrão se recusou a ajudar de qualquer forma o funcionário agora inútil. A família ficou sem meios de subsistência, e o antigo provedor virou um peso. Esse acontecimento afetou profundamente a visão de mundo de Karl. O único propósito de sua existência passou a ser defender os direitos dos trabalhadores comuns, como seu pai havia sido. Fiedler tem certeza de que só existe um caminho certo para defender os interesses dos trabalhadores: a greve. Ao longo dos anos de atuação, tornou-se muito hábil na oratória e aprendeu que cordas dos corações simples é preciso tocar para iniciar a agitação das massas. O provocador sobreviveu a mais de uma dezena de atentados, mas isso não diminuiu nem um pouco o fogo em seus olhos. Se Karl Fiedler aparecer entre os trabalhadores, uma greve começará em breve."/>
+    <text id="dossier_description" need_translate="false" value="O provocador se infiltra em uma empresa concorrente e incita os trabalhadores a iniciar uma greve."/>
+    <text id="dossier_header" need_translate="false" value="Provocar uma greve"/>
+    <text id="effect" need_translate="false" value="Provoca uma greve na empresa escolhida"/>
+    <text id="name" need_translate="false" value="Carl"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Fidler"/>
+  </agents_provoker>
+  <agents_trasher>
+    <text id="description" need_translate="false" value="Esse brutamontes tem os músculos e a cara para persuadir os alvos a repensar sua posição. Ele consegue as respostas desejadas às perguntas e as assinaturas nos contratos. É capaz e altamente motivado... dependendo do nível de pagamento."/>
+    <text id="dossier_description" need_translate="false" value="O cobrador Mika Pshishtov é capaz de recuperar praticamente qualquer dívida. Se o personagem tiver menos dinheiro do que o valor da dívida a ser devolvida, ele devolve tudo o que houver."/>
+    <text id="dossier_header" need_translate="false" value="Cobrança de dívidas"/>
+    <text id="effect" need_translate="false" value="Arranca dívidas de caloteiros"/>
+    <text id="name" need_translate="false" value="Mika"/>
+    <text id="risk" need_translate="false" value=""/>
+    <text id="short_description" need_translate="false" value=""/>
+    <text id="surname" need_translate="false" value="Pshishtov"/>
+  </agents_trasher>
+  <bandit_guard_skill>
+    <text id="description" need_translate="false" value="O capanga e seus comparsas vão garantir a segurança na empresa até o fim do trimestre."/>
+    <text id="full_description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Proteger a empresa"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="A empresa recebe imunidade a greves e acidentes até o fim do trimestre atual."/>
+    <text id="risk_result" need_translate="false" value="O risco de greve na empresa vai dobrar até o fim do trimestre."/>
+  </bandit_guard_skill>
+  <bandit_make_dummy_skill>
+    <text id="description" need_translate="false" value="O bandido e seus comparsas emboscam a vítima e então, com ameaças e intimidação, a forçam a se tornar completamente leal a você."/>
+    <text id="full_description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Intimidação"/>
+    <text id="negative_result" need_translate="false" value="Não pode ser reutilizado no mesmo personagem."/>
+    <text id="positive_result" need_translate="false" value="+5 {positive_loyalty} do personagem."/>
+    <text id="risk_result" need_translate="false" value="-5 {negative_loyalty} -2 {reputation_icon} Não pode ser reutilizado no mesmo personagem. O agente fica indisponível por um ano."/>
+  </bandit_make_dummy_skill>
+  <bandit_strike_skill>
+    <text id="description" need_translate="false" value="O capanga e seus comparsas organizam uma greve na empresa."/>
+    <text id="full_description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Provocar um tumulto"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="Há uma greve na empresa."/>
+    <text id="risk_result" need_translate="false" value="-1 {reputation_icon} do jogador. Não é possível usar o agente por um ano."/>
+  </bandit_strike_skill>
+  <broker_decease_shares_cost_skill>
+    <text id="description" need_translate="false" value="O preço das ações da empresa selecionada vai cair por um número indefinido de dias, após o que as cotações voltarão aos valores de mercado."/>
+    <text id="full_description" need_translate="false" value="Manipulação das cotações das ações da empresa"/>
+    <text id="name" need_translate="false" value="Redução de preço"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="O preço das ações da empresa selecionada vai cair por alguns dias."/>
+    <text id="risk_description" need_translate="false" value="Infelizmente, alguém vazou os seus planos antes da hora.&lt;br&gt;"/>
+    <text id="risk_result" need_translate="false" value="-1 {reputation_icon}&lt;br&gt;Não é possível usar o agente por 1 ano."/>
+  </broker_decease_shares_cost_skill>
+  <broker_increase_shares_cost_skill>
+    <text id="description" need_translate="false" value="O preço das ações da empresa selecionada vai subir por um número indefinido de dias, após o que as cotações voltarão aos valores de mercado."/>
+    <text id="full_description" need_translate="false" value="Manipulação das cotações das ações da empresa"/>
+    <text id="name" need_translate="false" value="Aumento de preço"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="O preço das ações da empresa selecionada vai subir por alguns dias."/>
+    <text id="risk_description" need_translate="false" value="Infelizmente, alguém vazou os seus planos antes da hora.&lt;br&gt;"/>
+    <text id="risk_result" need_translate="false" value="-1 {reputation_icon}&lt;br&gt;Não é possível usar o agente por 1 ano."/>
+  </broker_increase_shares_cost_skill>
+  <cardinal_skill>
+    <text id="description" need_translate="false" value="O agente “Cardeal” é capaz de aumentar a lealdade do personagem a você. Não funciona se o personagem for ateu"/>
+    <text id="full_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Aumento da lealdade do personagem"/>
+    <text id="negative_result" need_translate="false" value="Nenhum"/>
+    <text id="positive_result" need_translate="false" value="+1 {positive_loyalty} com um personagem (mesmo inimigo)"/>
+    <text id="risk_result" need_translate="false" value="-1 {negative_loyalty} com um personagem."/>
+  </cardinal_skill>
+  <courtesan_skill>
+    <text id="description" need_translate="false" value="Reduz a 1 os níveis das habilidades de &quot;Economia&quot;, &quot;Diplomacia&quot; e &quot;Política&quot; do alvo por 90 dias. Ao fim desse período, as habilidades do alvo voltam ao normal."/>
+    <text id="full_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Seduzir"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="As habilidades de &quot;Economia&quot;, &quot;Diplomacia&quot; e &quot;Política&quot; do alvo ficam iguais a 1 por 90 dias."/>
+    <text id="risk_result" need_translate="false" value="-2 {negative_loyalty}. Não pode ser reutilizado no mesmo personagem."/>
+  </courtesan_skill>
+  <detective_skill>
+    <text id="description" need_translate="false" value="O detetive está disposto a fuçar o passado obscuro de qualquer um para conseguir sujeira relevante em troca dos honorários recebidos. Quanto pior a reputação do personagem, maior a chance de o detetive reunir sujeira sobre ele."/>
+    <text id="full_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Sujeira sobre o personagem"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="Obtém sujeira sobre um personagem"/>
+    <text id="risk_result" need_translate="false" value="O agente não pode ser usado no mesmo personagem."/>
+  </detective_skill>
+  <financier_return_taxes_skill>
+    <text id="description" need_translate="false" value="O financista, usando esquemas de fachada, permite que a sua empresa evite o pagamento de impostos no trimestre atual."/>
+    <text id="full_description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Brechas legais"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="No trimestre atual, a empresa selecionada não paga impostos."/>
+    <text id="risk_result" need_translate="false" value="-1 {reputation_icon}. Multa para a empresa selecionada no valor dos tributos devidos. Não é possível usar o agente por um ano."/>
+  </financier_return_taxes_skill>
+  <fireman_skill>
+    <text id="description" need_translate="false" value="O agente sabota a receita da empresa destruindo prédios essenciais"/>
+    <text id="full_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Sabotagem"/>
+    <text id="negative_result" need_translate="false" value="Nenhum"/>
+    <text id="positive_result" need_translate="false" value="O sabotador destrói até 50% dos postos de trabalho da empresa."/>
+    <text id="risk_result" need_translate="false" value="-2,5 {negative_loyalty} com todos os acionistas da empresa.&lt;br&gt;Não é possível usar o agente por 3 anos.&lt;br&gt;"/>
+  </fireman_skill>
+  <headhunter_skill>
+    <text id="description" need_translate="false" value="O Caça-Talentos vai se encontrar com o CEO de uma empresa concorrente e tentar convencê-lo a deixar o cargo, prometendo uma posição mais promissora em uma das suas empresas."/>
+    <text id="full_description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Caça de talentos"/>
+    <text id="negative_result" need_translate="false" value="Sem consequências"/>
+    <text id="positive_result" need_translate="false" value="O CEO escolhido de outra empresa vai deixar o cargo e assumir a empresa que você propôs."/>
+    <text id="risk_result" need_translate="false" value="O CEO selecionado&lt;br&gt;-2 {negative_loyalty}&lt;br&gt;Acionistas da empresa do CEO selecionado -2 {negative_loyalty}&lt;br&gt;Não é possível usar o agente no mesmo personagem"/>
+  </headhunter_skill>
+  <journalist_bad_article_skill>
+    <text id="description" need_translate="false" value="O jornalista, usando material comprometedor, vai escrever uma matéria negativa que, se bem-sucedida, vai piorar a reputação do personagem."/>
+    <text id="full_description" need_translate="false" value="Publicar informação - descrição detalhada."/>
+    <text id="name" need_translate="false" value="Matéria difamatória"/>
+    <text id="negative_result" need_translate="false" value="O material comprometedor é consumido."/>
+    <text id="positive_result" need_translate="false" value="-5 {reputation_icon} do personagem. O material comprometedor é consumido."/>
+    <text id="risk_result" need_translate="false" value="-1 {reputation_icon}. O material comprometedor é consumido."/>
+  </journalist_bad_article_skill>
+  <journalist_good_article_skill>
+    <text id="description" need_translate="false" value="O jornalista vai escrever uma matéria positiva que, se bem-sucedida, vai melhorar a reputação do personagem."/>
+    <text id="full_description" need_translate="false" value="Publicar informação - descrição detalhada."/>
+    <text id="name" need_translate="false" value="Matéria elogiosa"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="+2 {reputation_icon} do personagem."/>
+    <text id="risk_result" need_translate="false" value="-1 {reputation_icon} do personagem."/>
+  </journalist_good_article_skill>
+  <killer_skill>
+    <text id="description" need_translate="false" value="O atirador atenta contra a vida do personagem."/>
+    <text id="full_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Eliminação de personagem"/>
+    <text id="negative_result" need_translate="false" value="Nenhum"/>
+    <text id="positive_result" need_translate="false" value="O alvo será ferido ou eliminado."/>
+    <text id="risk_result" need_translate="false" value="Não é possível usar o agente por 3 anos."/>
+  </killer_skill>
+  <killer_stages>
+    <text id="stage_1_1" need_translate="false" value="Limpeza da arma"/>
+    <text id="stage_1_2" need_translate="false" value="Calibração da mira"/>
+    <text id="stage_1_3" need_translate="false" value="Reconhecimento do terreno"/>
+    <text id="stage_1_4" need_translate="false" value="Compra de arma"/>
+    <text id="stage_1_5" need_translate="false" value="Escolher posição"/>
+    <text id="stage_2_1" need_translate="false" value="Rastreamento do alvo"/>
+    <text id="stage_2_2" need_translate="false" value="Treino de respiração"/>
+    <text id="stage_2_3" need_translate="false" value="Batimentos reduzidos"/>
+    <text id="stage_2_4" need_translate="false" value="Conseguir um tiro limpo"/>
+    <text id="stage_2_5" need_translate="false" value="Observando os arredores"/>
+    <text id="stage_3_1" need_translate="false" value="Tiro apressado"/>
+    <text id="stage_3_2" need_translate="false" value="Atirar para matar"/>
+    <text id="stage_3_3" need_translate="false" value="Mira cuidadosa"/>
+    <text id="stage_3_4" need_translate="false" value="Tiros aleatórios"/>
+    <text id="stage_3_5" need_translate="false" value="Tiro de emboscada"/>
+  </killer_stages>
+  <lobbyist_skill>
+    <text id="description" need_translate="false" value="Independentemente de você querer «aprovar» ou «afundar» o projeto de lei, o lobista vai tentar arrancar votos parlamentares para você em qualquer uma das câmaras do parlamento."/>
+    <text id="full_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Lobby"/>
+    <text id="negative_result" need_translate="false" value="Sem consequências."/>
+    <text id="positive_result" need_translate="false" value="Faz lobby pelo projeto de lei, obtendo o número necessário de votos dos políticos."/>
+    <text id="risk_result" need_translate="false" value="Você não pode usar o agente para fazer lobby pelo mesmo projeto de lei."/>
+  </lobbyist_skill>
+  <pianist_music_magic_skill>
+    <text id="description" need_translate="false" value="Realiza um concerto especialmente para os funcionários da empresa selecionada, encerrando greves e reduzindo a 0 o risco de que ocorram por {quarters} do trimestre."/>
+    <text id="full_description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="A magia da música"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="negative_result_hint" need_translate="false" value="Sem efeito."/>
+    <text id="positive_result" need_translate="false" value="O risco de greve na empresa vai cair a 0 e se recuperar em {quarters} trimestres."/>
+    <text id="positive_result_hint" need_translate="false" value="A greve em curso vai parar, e o risco de uma nova greve vai cair a 0 antes do fim do trimestre e voltar ao valor normal em {quarters} trimestres."/>
+    <text id="risk_result" need_translate="false" value="O risco de greve na empresa vai aumentar 2 vezes.&lt;br&gt;Não é possível usar o agente por um ano."/>
+    <text id="risk_result_hint" need_translate="false" value="Nem todo mundo gostou da apresentação de um pianista afro-americano! O risco de greve vai dobrar."/>
+  </pianist_music_magic_skill>
+  <provoker_strike_skill>
+    <text id="description" need_translate="false" value="O provocador se infiltra em uma empresa concorrente e incita os trabalhadores a iniciar uma greve."/>
+    <text id="full_description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Provocar uma greve"/>
+    <text id="negative_result" need_translate="false" value="Sem consequências"/>
+    <text id="positive_result" need_translate="false" value="Uma greve começa na empresa selecionada."/>
+    <text id="risk_result" need_translate="false" value="Reputação -1 {reputation_icon}&lt;br&gt;-2 {negative_loyalty} todos os acionistas da empresa-alvo&lt;br&gt;Não é possível usar o agente por um ano"/>
+  </provoker_strike_skill>
+  <trasher_skill>
+    <text id="description" need_translate="false" value="O agente é capaz de cobrar qualquer dívida. Se o personagem não tiver fundos suficientes, o agente levará todo o dinheiro que ele tiver."/>
+    <text id="full_description" need_translate="false" value="Em desenvolvimento"/>
+    <text id="name" need_translate="false" value="Cobrança de dívidas"/>
+    <text id="negative_result" need_translate="false" value="Não há consequências."/>
+    <text id="positive_result" need_translate="false" value="-1 {negative_loyalty} do personagem. Devolve o empréstimo concedido ao personagem."/>
+    <text id="risk_result" need_translate="false" value="-3 {negative_loyalty} do personagem."/>
+  </trasher_skill>
+</agents>

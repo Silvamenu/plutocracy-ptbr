@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sandbox_settings>
+  <text id="btn_start_game" need_translate="false" value="Iniciar jogo"/>
+  <text id="end_time" need_translate="false" value="Data final"/>
+  <win_settings_description>
+    <text id="influence_victory" need_translate="false" value="Influência"/>
+    <text id="money_victory" need_translate="false" value="Riqueza"/>
+  </win_settings_description>
+  <win_settings_header>
+    <text id="influence_victory" need_translate="false" value="Torne-se a pessoa mais influente dos EUA. Ganhe popularidade junto ao público e faça muitos contatos para fazer lobby por leis e mudar o mundo à sua volta como quiser."/>
+    <text id="money_victory" need_translate="false" value="No tempo determinado, torne-se a pessoa mais rica dos Estados Unidos. Invista capital e administre empresas para criar um monopólio e ditar sua vontade ao mercado."/>
+  </win_settings_header>
+  <world_settings>
+    <bots_count>
+      <text id="no_bots" need_translate="false" value="Quando ninguém deve atrapalhar seus objetivos"/>
+      <text id="one_bot" need_translate="false" value="Se você precisa lutar com alguém"/>
+      <text id="three_bots" need_translate="false" value="É um desafio sério!"/>
+      <text id="two_bots" need_translate="false" value="Se você quer provar sua superioridade a vários adversários"/>
+    </bots_count>
+    <game_difficult>
+      <text id="finance_shark" need_translate="false" value="Seu adversário é extremamente poderoso! Haverá obstáculos incríveis neste desafio. Recomendado para jogadores experientes"/>
+      <text id="piranha" need_translate="false" value="Escolha esta opção se estiver pronto para enfrentar adversários mais poderosos! A IA tem habilidades e características intermediárias"/>
+      <text id="small_fish" need_translate="false" value="Recomendado para iniciantes. O adversário tem o mesmo capital inicial que você"/>
+    </game_difficult>
+    <industry>
+      <text id="all" need_translate="false" value="Tipos de empresas:"/>
+      <text id="metallurgy" need_translate="false" value="Tipos de empresas:"/>
+      <text id="oil" need_translate="false" value="Tipos de empresas:"/>
+    </industry>
+    <start_condition>
+      <text id="company_owner" need_translate="false" value="Você controla 100% de uma empresa pequena, com 10 funcionários."/>
+      <text id="experienced_investor" need_translate="false" value="Você tem 5% de participação em uma pequena empresa aleatória."/>
+      <text id="low_start" need_translate="false" value="Você não terá ações em ativos no início do jogo."/>
+    </start_condition>
+    <world_size>
+      <text id="big" need_translate="false" value="75% do número real de políticos no Congresso e nas assembleias legislativas. &lt;br&gt;Um grande número de empresas."/>
+      <text id="large" need_translate="false" value="O número real de políticos no Congresso e nas assembleias legislativas. &lt;br&gt;Número máximo de empresas.&lt;br&gt;&lt;font color='%1'&gt;Atenção!&lt;br&gt;&lt;/font&gt; &lt;font color='%2'&gt;Afeta significativamente o desempenho.&lt;/font&gt;"/>
+      <text id="medium" need_translate="false" value="50% do número real de políticos no Congresso e nas assembleias legislativas. &lt;br&gt;Número médio de empresas."/>
+      <text id="small" need_translate="false" value="25% do número real de políticos no Congresso e nas assembleias legislativas. &lt;br&gt;Número mínimo de empresas."/>
+    </world_size>
+  </world_settings>
+</sandbox_settings>

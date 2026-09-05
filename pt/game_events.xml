@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_events>
+  <event>
+    <text id="50_description" need_translate="false" value="%1%2 vai se candidatar de novo. Ele busca contribuições para financiar a campanha"/>
+    <text id="50_header" need_translate="false" value="Financiamento de campanha"/>
+    <text id="52_description" need_translate="false" value="Quero comprar ações da empresa {company_name} de {state}. Se você me ajudar, ficarei grato a você..."/>
+    <text id="52_header" need_translate="false" value="Acionista da empresa"/>
+    <text id="55_description" need_translate="false" value="%1%2 procura um item para a coleção &quot;%3&quot;, e parece bastante ansioso..."/>
+    <text id="55_header" need_translate="false" value="Ambição"/>
+    <text id="56_description" need_translate="false" value="%1%2 precisa liquidar &quot;%3&quot; com urgência, caso você queira a ajuda dele..."/>
+    <text id="56_header" need_translate="false" value="Ambição"/>
+    <text id="57_description" need_translate="false" value="%1%2 busca um cargo de diretor. Você poderia ajudar?"/>
+    <text id="57_header" need_translate="false" value="Ambição"/>
+    <text id="5_description" need_translate="false" value="São tempos turbulentos... À noite, ladrões atacaram você. Você pode reagir ou pagar."/>
+    <text id="5_header" need_translate="false" value="Roubo"/>
+    <text id="60_description" need_translate="false" value="Quero vender ações de {company_name} do estado {state}. Se você me ajudar, ficarei em dívida com você."/>
+    <text id="60_header" need_translate="false" value="Vender ações"/>
+    <text id="61_description" need_translate="false" value="{person_name} quer tomar emprestado {sum} por um prazo de {term} trim. O personagem pode não pagar a dívida; o risco de inadimplência é {risk}."/>
+    <text id="61_header" need_translate="false" value="Empréstimo necessário"/>
+    <text id="6_description" need_translate="false" value="Opa! Atraso! Houve um pequeno acidente nos trilhos! Contratar outro trem ou esperar o reparo?"/>
+    <text id="6_header" need_translate="false" value="Atraso"/>
+  </event>
+  <event_button>
+    <text id="button_50_1_header" need_translate="false" value="Patrocinar"/>
+    <text id="button_50_1_hover_text" need_translate="false" value="A lealdade a você: +%1%"/>
+    <text id="button_50_1_text" need_translate="false" value="A contribuição é $%1"/>
+    <text id="button_50_2_header" need_translate="false" value="Pensar"/>
+    <text id="button_50_2_hover_text" need_translate="false" value="Sem efeitos"/>
+    <text id="button_50_2_text" need_translate="false" value="Todos os assuntos exigem a devida reflexão."/>
+    <text id="button_52_1_header" need_translate="false" value="Concordar"/>
+    <text id="button_52_1_hover_text" need_translate="false" value="Suas ações: -%1 ($ %2)\nA lealdade a você: + %3%"/>
+    <text id="button_52_1_text" need_translate="false" value=""/>
+    <text id="button_52_2_header" need_translate="false" value="Pensar"/>
+    <text id="button_52_2_hover_text" need_translate="false" value="Nunca tomei decisões precipitadas"/>
+    <text id="button_52_2_text" need_translate="false" value=""/>
+    <text id="button_55_1_header" need_translate="false" value="Concordar"/>
+    <text id="button_55_1_hover_text" need_translate="false" value=""/>
+    <text id="button_55_1_text" need_translate="false" value=""/>
+    <text id="button_55_2_header" need_translate="false" value="Recusar"/>
+    <text id="button_55_2_hover_text" need_translate="false" value=""/>
+    <text id="button_55_2_text" need_translate="false" value=""/>
+    <text id="button_56_1_header" need_translate="false" value="Concordar"/>
+    <text id="button_56_1_hover_text" need_translate="false" value=""/>
+    <text id="button_56_1_text" need_translate="false" value=""/>
+    <text id="button_56_2_header" need_translate="false" value="Recusar"/>
+    <text id="button_56_2_hover_text" need_translate="false" value=""/>
+    <text id="button_56_2_text" need_translate="false" value=""/>
+    <text id="button_57_1_header" need_translate="false" value="Concordar"/>
+    <text id="button_57_1_hover_text" need_translate="false" value=""/>
+    <text id="button_57_1_text" need_translate="false" value=""/>
+    <text id="button_57_2_header" need_translate="false" value="Recusar"/>
+    <text id="button_57_2_hover_text" need_translate="false" value=""/>
+    <text id="button_57_2_text" need_translate="false" value=""/>
+    <text id="button_5_1_header" need_translate="false" value="Pagar"/>
+    <text id="button_5_1_hover_text" need_translate="false" value=""/>
+    <text id="button_5_1_text" need_translate="false" value="Você perderá {lost_money}"/>
+    <text id="button_5_2_header" need_translate="false" value="Confronto"/>
+    <text id="button_5_2_hover_text" need_translate="false" value=""/>
+    <text id="button_5_2_text" need_translate="false" value="Risco de ferimento {risk_chance}&lt;br&gt;Você perderá {lost_days} dia(s)"/>
+    <text id="button_60_1_header" need_translate="false" value="Concordar"/>
+    <text id="button_60_1_hover_text" need_translate="false" value=""/>
+    <text id="button_60_1_text" need_translate="false" value=""/>
+    <text id="button_60_2_header" need_translate="false" value="Pensar"/>
+    <text id="button_60_2_hover_text" need_translate="false" value=""/>
+    <text id="button_60_2_text" need_translate="false" value=""/>
+    <text id="button_61_1_header" need_translate="false" value="Concordar"/>
+    <text id="button_61_1_hover_text" need_translate="false" value=""/>
+    <text id="button_61_1_text" need_translate="false" value=""/>
+    <text id="button_61_2_header" need_translate="false" value="Pensar"/>
+    <text id="button_61_2_hover_text" need_translate="false" value=""/>
+    <text id="button_61_2_text" need_translate="false" value=""/>
+    <text id="button_6_1_header" need_translate="false" value="Contratar"/>
+    <text id="button_6_1_hover_text" need_translate="false" value=""/>
+    <text id="button_6_1_text" need_translate="false" value="Você perderá {lost_money}"/>
+    <text id="button_6_2_header" need_translate="false" value="Esperar"/>
+    <text id="button_6_2_hover_text" need_translate="false" value=""/>
+    <text id="button_6_2_text" need_translate="false" value="Você perderá {lost_days} dia(s)"/>
+    <text id="disabled_button_50_1_hover_text" need_translate="false" value="Sem efeitos"/>
+    <text id="disabled_button_50_2_hover_text" need_translate="false" value="Sem efeitos"/>
+    <text id="disabled_button_52_1_hover_text" need_translate="false" value="Sem efeitos"/>
+    <text id="disabled_button_52_2_hover_text" need_translate="false" value="Nunca tomei decisões precipitadas"/>
+    <text id="disabled_button_55_1_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_55_2_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_56_1_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_56_2_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_57_1_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_57_2_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_5_1_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_5_2_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_60_1_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_60_2_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_61_1_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_61_2_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_6_1_hover_text" need_translate="false" value=""/>
+    <text id="disabled_button_6_2_hover_text" need_translate="false" value=""/>
+  </event_button>
+</game_events>

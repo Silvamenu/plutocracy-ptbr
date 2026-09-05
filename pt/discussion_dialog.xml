@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussion_dialog>
+  <discussion_phrase>
+    <text id="100" need_translate="false" value="Até que enfim nos encontramos... a que devo o prazer?"/>
+    <text id="101" need_translate="false" value="Pelo que ouvi dizer, poderíamos ter sido irmãos... o que você tem em mente?"/>
+    <text id="102" need_translate="false" value="Estou pronto para ouvi-lo. Qual é o motivo do nosso encontro?"/>
+    <text id="1600" need_translate="false" value="Se você precisa de um empréstimo, minhas condições são $ %1 a %2% por trimestre"/>
+    <text id="1601" need_translate="false" value="Para o negócio certo, tenho uma ótima oferta de empréstimo: $ %1 a %2% por trimestre"/>
+    <text id="1602" need_translate="false" value="Sua proposta é aceitável e o empréstimo terá principal de $ %1 a %2% por trimestre"/>
+    <text id="1700" need_translate="false" value="É insuportavelmente humilhante negociar com você!"/>
+    <text id="1701" need_translate="false" value="Esse preço é ridículo e esta conversa está encerrada."/>
+    <text id="1702" need_translate="false" value="Você chegou a avaliar direito esta empresa? Sua oferta é um absurdo!"/>
+    <text id="1703" need_translate="false" value="Essa oferta é um insulto e não faremos negócio tão cedo."/>
+    <text id="1800" need_translate="false" value="Foi um prazer fazer negócio com você!"/>
+    <text id="1801" need_translate="false" value="Obrigado por ser razoável, e mantenha contato!"/>
+    <text id="200" need_translate="false" value="Nós tínhamos hora marcada? Por favor, seja breve e diga o que deseja."/>
+    <text id="201" need_translate="false" value="O dia está corrido por aqui. Seja rápido."/>
+    <text id="202" need_translate="false" value="Já é essa hora? Será que podemos remarcar?"/>
+    <text id="20500" need_translate="false" value="Acho que mereço um acordo melhor. O que me diz disto?"/>
+    <text id="20501" need_translate="false" value="Seus argumentos são duvidosos... Não vou aceitar essas condições!"/>
+    <text id="20600" need_translate="false" value="Gosto de fazer negócio com você. Meu voto é o seu voto!"/>
+    <text id="20700" need_translate="false" value="Isso é um absurdo! Não vou mais perder meu tempo com você!"/>
+    <text id="300" need_translate="false" value="Bem, conseguiu minha atenção... não a desperdice..."/>
+    <text id="301" need_translate="false" value="Quem é você e o que veio fazer aqui?"/>
+    <text id="302" need_translate="false" value="Que bom fazer negócio de novo com você, meu amigo!"/>
+    <text id="500" need_translate="false" value="Esse preço é pura bobagem... tem certeza de que está no lugar certo?"/>
+    <text id="501" need_translate="false" value="Não quero ser irracional, mas... você tem outras ofertas?"/>
+    <text id="502" need_translate="false" value="Você vai ver passarinho dormindo antes de eu vender por esse preço!"/>
+    <text id="503" need_translate="false" value="Nossa, que velho rabugento... que tal uma oferta de verdade?"/>
+    <text id="504" need_translate="false" value="Esse galo não briga, meu amigo... tem outro número em mente?"/>
+    <text id="600" need_translate="false" value="Tudo certo e muito bem feito. %1 ações da empresa %2 por $%3."/>
+    <text id="601" need_translate="false" value="Uma contrapartida bem razoável, obrigado! %1 ações da empresa %2 por $%3"/>
+    <text id="602" need_translate="false" value="Muito bem, temos um acordo! %1 ações da empresa %2 por $%3"/>
+    <text id="700" need_translate="false" value="Não acredito que aceitei esta reunião!"/>
+    <text id="701" need_translate="false" value="Não. Aqui não vai ter negócio ruim hoje... suma daqui!"/>
+    <text id="702" need_translate="false" value="Essa foi a gota d'água. O acordo azedou e terminamos por aqui."/>
+    <text id="703" need_translate="false" value="Minha nossa, que atrevimento com essa oferta... volte de onde veio e não retorne."/>
+  </discussion_phrase>
+</discussion_dialog>

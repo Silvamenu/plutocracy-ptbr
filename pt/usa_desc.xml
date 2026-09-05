@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map_description>
+  <unit>
+    <text id="ak_desc" need_translate="false" value="Lugar muito frio"/>
+    <text id="ak_name" need_translate="false" value="Alasca"/>
+    <text id="al_desc" need_translate="false" value=""/>
+    <text id="al_name" need_translate="false" value="Alabama"/>
+    <text id="ar_desc" need_translate="false" value=""/>
+    <text id="ar_name" need_translate="false" value="Arkansas"/>
+    <text id="az_desc" need_translate="false" value=""/>
+    <text id="az_name" need_translate="false" value="Arizona"/>
+    <text id="ca_desc" need_translate="false" value=""/>
+    <text id="ca_name" need_translate="false" value="Califórnia"/>
+    <text id="co_desc" need_translate="false" value=""/>
+    <text id="co_name" need_translate="false" value="Colorado"/>
+    <text id="ct_desc" need_translate="false" value=""/>
+    <text id="ct_name" need_translate="false" value="Connecticut"/>
+    <text id="de_desc" need_translate="false" value=""/>
+    <text id="de_name" need_translate="false" value="Delaware"/>
+    <text id="fl_desc" need_translate="false" value=""/>
+    <text id="fl_name" need_translate="false" value="Flórida"/>
+    <text id="ga_desc" need_translate="false" value=""/>
+    <text id="ga_name" need_translate="false" value="Geórgia"/>
+    <text id="hi_desc" need_translate="false" value=""/>
+    <text id="hi_name" need_translate="false" value="Havaí"/>
+    <text id="ia_desc" need_translate="false" value=""/>
+    <text id="ia_name" need_translate="false" value="Iowa"/>
+    <text id="id_desc" need_translate="false" value=""/>
+    <text id="id_name" need_translate="false" value="Idaho"/>
+    <text id="il_desc" need_translate="false" value=""/>
+    <text id="il_name" need_translate="false" value="Illinois"/>
+    <text id="in_desc" need_translate="false" value=""/>
+    <text id="in_name" need_translate="false" value="Indiana"/>
+    <text id="ks_desc" need_translate="false" value=""/>
+    <text id="ks_name" need_translate="false" value="Kansas"/>
+    <text id="ky_desc" need_translate="false" value=""/>
+    <text id="ky_name" need_translate="false" value="Kentucky"/>
+    <text id="la_desc" need_translate="false" value=""/>
+    <text id="la_name" need_translate="false" value="Luisiana"/>
+    <text id="ma_desc" need_translate="false" value=""/>
+    <text id="ma_name" need_translate="false" value="Massachusetts"/>
+    <text id="md_desc" need_translate="false" value=""/>
+    <text id="md_name" need_translate="false" value="Maryland"/>
+    <text id="me_desc" need_translate="false" value=""/>
+    <text id="me_name" need_translate="false" value="Maine"/>
+    <text id="mi_desc" need_translate="false" value=""/>
+    <text id="mi_name" need_translate="false" value="Michigan"/>
+    <text id="mn_desc" need_translate="false" value=""/>
+    <text id="mn_name" need_translate="false" value="Minnesota"/>
+    <text id="mo_desc" need_translate="false" value=""/>
+    <text id="mo_name" need_translate="false" value="Missouri"/>
+    <text id="ms_desc" need_translate="false" value=""/>
+    <text id="ms_name" need_translate="false" value="Mississippi"/>
+    <text id="mt_desc" need_translate="false" value=""/>
+    <text id="mt_name" need_translate="false" value="Montana"/>
+    <text id="nc_desc" need_translate="false" value=""/>
+    <text id="nc_name" need_translate="false" value="Carolina do Norte"/>
+    <text id="nd_desc" need_translate="false" value=""/>
+    <text id="nd_name" need_translate="false" value="Dakota do Norte"/>
+    <text id="ne_desc" need_translate="false" value=""/>
+    <text id="ne_name" need_translate="false" value="Nebraska"/>
+    <text id="nh_desc" need_translate="false" value=""/>
+    <text id="nh_name" need_translate="false" value="Nova Hampshire"/>
+    <text id="nj_desc" need_translate="false" value=""/>
+    <text id="nj_name" need_translate="false" value="Nova Jersey"/>
+    <text id="nm_desc" need_translate="false" value=""/>
+    <text id="nm_name" need_translate="false" value="Novo México"/>
+    <text id="nv_desc" need_translate="false" value=""/>
+    <text id="nv_name" need_translate="false" value="Nevada"/>
+    <text id="ny_desc" need_translate="false" value=""/>
+    <text id="ny_name" need_translate="false" value="Nova York"/>
+    <text id="oh_desc" need_translate="false" value=""/>
+    <text id="oh_name" need_translate="false" value="Ohio"/>
+    <text id="ok_desc" need_translate="false" value=""/>
+    <text id="ok_name" need_translate="false" value="Oklahoma"/>
+    <text id="or_desc" need_translate="false" value=""/>
+    <text id="or_name" need_translate="false" value="Oregon"/>
+    <text id="ot_desc" need_translate="false" value=""/>
+    <text id="ot_name" need_translate="false" value="Outros países"/>
+    <text id="pa_desc" need_translate="false" value=""/>
+    <text id="pa_name" need_translate="false" value="Pensilvânia"/>
+    <text id="ri_desc" need_translate="false" value=""/>
+    <text id="ri_name" need_translate="false" value="Rhode Island"/>
+    <text id="sc_desc" need_translate="false" value=""/>
+    <text id="sc_name" need_translate="false" value="Carolina do Sul"/>
+    <text id="sd_desc" need_translate="false" value=""/>
+    <text id="sd_name" need_translate="false" value="Dakota do Sul"/>
+    <text id="tn_desc" need_translate="false" value=""/>
+    <text id="tn_name" need_translate="false" value="Tennessee"/>
+    <text id="tx_desc" need_translate="false" value=""/>
+    <text id="tx_name" need_translate="false" value="Texas"/>
+    <text id="ut_desc" need_translate="false" value=""/>
+    <text id="ut_name" need_translate="false" value="Utah"/>
+    <text id="va_desc" need_translate="false" value=""/>
+    <text id="va_name" need_translate="false" value="Virgínia"/>
+    <text id="vt_desc" need_translate="false" value=""/>
+    <text id="vt_name" need_translate="false" value="Vermont"/>
+    <text id="wa_desc" need_translate="false" value=""/>
+    <text id="wa_name" need_translate="false" value="Washington"/>
+    <text id="wi_desc" need_translate="false" value=""/>
+    <text id="wi_name" need_translate="false" value="Wisconsin"/>
+    <text id="wv_desc" need_translate="false" value=""/>
+    <text id="wv_name" need_translate="false" value="Virgínia Ocidental"/>
+    <text id="wy_desc" need_translate="false" value=""/>
+    <text id="wy_name" need_translate="false" value="Wyoming"/>
+  </unit>
+</map_description>

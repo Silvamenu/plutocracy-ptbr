@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<google_breakpad>
+  <crash_dialog>
+    <text id="add_client_email" need_translate="false" value="Permitir que a Redwood entre em contato comigo sobre isso (deixe seu e-mail ou outro contato)."/>
+    <text id="apologies" need_translate="false" value="Pedimos desculpas\n\n"/>
+    <text id="close_game" need_translate="false" value="Sair de Plutocracy"/>
+    <text id="comment" need_translate="false" value="Deixe um comentário (512 caracteres)"/>
+    <text id="error_desc" need_translate="false" value="Ocorreu um erro interno durante o jogo Plutocracy, que causou uma falha.\n"/>
+    <text id="fail" need_translate="false" value="Falha!"/>
+    <text id="info_about_send" need_translate="false" value="Sua mensagem será enviada antes de sair"/>
+    <text id="send_error_msg" need_translate="false" value="Para nos ajudar a identificar e corrigir este problema, envie-nos uma mensagem de erro.\n\n\n"/>
+    <text id="send_failed" need_translate="false" value="A mensagem não foi enviada!"/>
+    <text id="send_successfully" need_translate="false" value="Obrigado pela sua mensagem!"/>
+    <text id="send_to_redwood" need_translate="false" value="Relatar a falha à Redwood para que possam corrigi-la"/>
+    <text id="success" need_translate="false" value="Sucesso!"/>
+    <text id="window_title" need_translate="false" value="Relator de Falhas de Plutocracy"/>
+  </crash_dialog>
+</google_breakpad>

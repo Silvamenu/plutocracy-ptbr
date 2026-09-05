@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons_characters>
+  <ambitions>
+    <text id="00_shares_bank_name" need_translate="false" value="Quero adquirir ações de um banco"/>
+    <text id="01_shares_oil_production_name" need_translate="false" value="Quero adquirir ações de uma empresa de extração de petróleo"/>
+    <text id="02_shares_transport_company_name" need_translate="false" value="Quero adquirir ações de uma empresa de transporte"/>
+    <text id="03_shares_petroleum_refinery_name" need_translate="false" value="Quero adquirir ações de uma empresa de refino de petróleo"/>
+    <text id="04_control_shares_pack_of_bank_name" need_translate="false" value="Vender ações do banco"/>
+    <text id="05_control_shares_pack_of_oil_production_name" need_translate="false" value="Vender ações da empresa de petróleo"/>
+    <text id="06_control_shares_pack_of_transport_company_name" need_translate="false" value="Vender ações da empresa de transporte"/>
+    <text id="07_control_shares_pack_of_petroleum_refinery_name" need_translate="false" value="Vender ações da empresa de refino de petróleo"/>
+    <text id="08_buy_shares_media_name" need_translate="false" value="Possuir ações de uma empresa de mídia"/>
+    <text id="08_finance_campaign_name" need_translate="false" value="Financiar campanha eleitoral"/>
+    <text id="09_found_bank_name" need_translate="false" value="Em desenvolvimento"/>
+    <text id="09_sell_shares_media_name" need_translate="false" value="Vender ações de uma empresa de mídia"/>
+    <text id="10_found_oil_production_name" need_translate="false" value="Em desenvolvimento"/>
+    <text id="11_add_to_collection_antiques_name" need_translate="false" value="Comprar antiguidades"/>
+    <text id="12_add_to_collection_weapons_name" need_translate="false" value="Comprar armas"/>
+    <text id="13_add_to_collection_trophies_name" need_translate="false" value="Comprar troféus"/>
+    <text id="14_add_to_collection_pictures_name" need_translate="false" value="Comprar quadros"/>
+    <text id="15_add_to_collection_horses_name" need_translate="false" value="Comprar cavalos"/>
+    <text id="16_add_to_collection_cars_name" need_translate="false" value="Comprar carros"/>
+    <text id="17_add_to_collection_coins_name" need_translate="false" value="Comprar moedas"/>
+    <text id="18_add_to_collection_houses_name" need_translate="false" value="Comprar casas"/>
+    <text id="19_add_to_collection_yachts_name" need_translate="false" value="Comprar iates"/>
+    <text id="20_add_to_collection_alco_name" need_translate="false" value="Comprar bebidas/tabaco"/>
+    <text id="21_want_to_be_governor_name" need_translate="false" value="Quero assumir o cargo de governador"/>
+    <text id="22_want_to_be_treasurer_name" need_translate="false" value="Quero assumir o cargo de tesoureiro"/>
+    <text id="23_want_to_be_judge_name" need_translate="false" value="Quero assumir o cargo de juiz"/>
+    <text id="24_want_to_be_prosecutor_name" need_translate="false" value="Quero assumir o cargo de promotor"/>
+    <text id="25_want_to_be_police_chief_name" need_translate="false" value="Quero assumir o cargo de chefe de polícia"/>
+    <text id="26_want_to_be_congressman_name" need_translate="false" value="Quero assumir o cargo de deputado federal"/>
+    <text id="27_want_to_be_senator_name" need_translate="false" value="Quero assumir o cargo de senador"/>
+    <text id="28_kill_all_enemies_name" need_translate="false" value="Em desenvolvimento"/>
+    <text id="29_buy_all_shares_name" need_translate="false" value="Em desenvolvimento"/>
+    <text id="30_add_new_friends_name" need_translate="false" value="Em desenvolvimento"/>
+    <text id="31_found_petroleum_refinery_name" need_translate="false" value="Em desenvolvimento"/>
+    <text id="32_found_transport_company_name" need_translate="false" value="Em desenvolvimento"/>
+    <text id="33_sell_from_collection_antiques_name" need_translate="false" value="Vender antiguidades"/>
+    <text id="34_sell_from_collection_weapons_name" need_translate="false" value="Vender armas"/>
+    <text id="35_sell_from_collection_trophies_name" need_translate="false" value="Vender troféus"/>
+    <text id="36_sell_from_collection_pictures_name" need_translate="false" value="Vender quadros"/>
+    <text id="37_sell_from_collection_horses_name" need_translate="false" value="Vender cavalos"/>
+    <text id="38_sell_from_collection_cars_name" need_translate="false" value="Vender carros"/>
+    <text id="39_sell_from_collection_coins_name" need_translate="false" value="Vender moedas"/>
+    <text id="40_sell_from_collection_houses_name" need_translate="false" value="Vender casas"/>
+    <text id="41_sell_from_collection_yachts_name" need_translate="false" value="Vender iates"/>
+    <text id="42_sell_from_collection_alco_name" need_translate="false" value="Vender bebidas/tabaco"/>
+    <text id="43_become_an_director_name" need_translate="false" value="Diretor"/>
+    <text id="45_become_in_director_board_name" need_translate="false" value="Conselho de diretores"/>
+    <text id="46_get_a_credit_name" need_translate="false" value="Preciso de um empréstimo"/>
+    <text id="47_control_shares_pack_of_steel_mining_name" need_translate="false" value="Vender ações da empresa de mineração de ferro"/>
+    <text id="48_control_shares_pack_of_metallurgical_name" need_translate="false" value="Vender ações da empresa metalúrgica"/>
+    <text id="49_shares_steel_mining_name" need_translate="false" value="Quero adquirir ações de uma empresa de mineração de ferro"/>
+    <text id="50_shares_metallurgical_name" need_translate="false" value="Quero adquirir ações de uma empresa metalúrgica"/>
+    <text id="51_shares_coal_name" need_translate="false" value="Vender ações da empresa de mineração de carvão"/>
+    <text id="52_control_shares_pack_of_coal_name" need_translate="false" value="Quero adquirir ações de uma empresa de mineração de carvão"/>
+    <text id="after_sponsorship_chance" need_translate="false" value="Chance de vitória após o patrocínio - {chance}"/>
+    <text id="become_a_ceo_description" need_translate="false" value="O personagem quer se tornar CEO de uma empresa, e não importa que empresa seja. Se você realizar a ambição dele, pode ganhar uma recompensa, mas cuidado - um gestor ruim pode levar a empresa à falência!"/>
+    <text id="before_sponsorship_chance" need_translate="false" value="Chance de vitória antes do patrocínio - {chance}"/>
+    <text id="buy_shares_description" need_translate="false" value="O personagem procura ações da empresa {company_name} ({shares_percent}). Ele está disposto a oferecer {sum} (-{offer_discount}) por elas. Se o personagem conseguir ações desta empresa, você pode lucrar e receber uma recompensa.&lt;br&gt;Tenho {my_shares_count} ações da empresa {company_name}."/>
+    <text id="collect_ownership_description" need_translate="false" value="O personagem está disposto a comprar um item desta coleção. Vença um leilão ou compre um item assim de outro personagem para lucrar e receber uma recompensa."/>
+    <text id="finance_campaign_description" need_translate="false" value="O personagem quer que alguém financie a campanha eleitoral dele no valor de {sum}. Em agradecimento, ele aumentará a influência do patrocinador em {influence_change}. A avaliação do político subirá para {total_rating}; além disso, por realizar esta ambição, você pode ganhar uma recompensa."/>
+    <text id="personal_loan_description" need_translate="false" value="O personagem quer receber {sum} por um prazo de {term} trimestre(s), à taxa de {rate}. O saldo do personagem é {balance}. O risco de inadimplência do empréstimo é de {risk}%, mas você pode receber juros sobre o empréstimo e uma recompensa do personagem."/>
+    <text id="sell_ownership_description" need_translate="false" value="O personagem está disposto a vender um item desta coleção pelo preço de mercado. Compre um item assim deste personagem para obter um novo item de coleção e receber uma recompensa."/>
+    <text id="sell_shares_description" need_translate="false" value="O personagem quer vender ações da empresa {company_name} ({shares_percent}). Ele está disposto a vender a participação por {sum} (+{offer_discount}) e também a oferecer uma recompensa a quem realizar a ambição.&lt;br&gt;Tenho {my_shares_count} ações de {company_name}."/>
+    <text id="sponsorship_congressman_name" need_translate="false" value="Ser patrocinado na eleição para deputado federal dos EUA"/>
+    <text id="sponsorship_governor_name" need_translate="false" value="Ser patrocinado na eleição para governador"/>
+    <text id="sponsorship_legislature_congressman_name" need_translate="false" value="Ser patrocinado na eleição para deputado da assembleia legislativa"/>
+    <text id="sponsorship_legislature_senator_name" need_translate="false" value="Ser patrocinado na eleição para senador da assembleia legislativa"/>
+    <text id="sponsorship_police_chief_name" need_translate="false" value="Ser patrocinado na eleição para chefe de polícia"/>
+    <text id="sponsorship_prosecutor_name" need_translate="false" value="Ser patrocinado na eleição para promotor"/>
+    <text id="sponsorship_senator_name" need_translate="false" value="Ser patrocinado na eleição para senador dos EUA"/>
+    <text id="sponsorship_summ" need_translate="false" value="O valor do patrocínio - {summ}"/>
+    <text id="sponsorship_treasurer_name" need_translate="false" value="Ser patrocinado na eleição para tesoureiro"/>
+  </ambitions>
+  <descriptions>
+    <text id="aggressive" need_translate="false" value="A lealdade do personagem a você cairá 2 vezes mais em caso de negociação fracassada"/>
+    <text id="alco_tobacco" need_translate="false" value="Bebidas/tabaco"/>
+    <text id="alcoholic" need_translate="false" value="Há 20% de chance de o personagem não comparecer à negociação"/>
+    <text id="antiques" need_translate="false" value="Antiguidades"/>
+    <text id="atheist" need_translate="false" value="Você não pode usar o agente 'Bispo'"/>
+    <text id="believer" need_translate="false" value="Você pode usar o agente 'Bispo'"/>
+    <text id="brawler" need_translate="false" value="+20% no sucesso do Jornalista"/>
+    <text id="careful" need_translate="false" value="-20% no sucesso do Matador de Aluguel"/>
+    <text id="careless" need_translate="false" value="+20% no sucesso do Matador de Aluguel"/>
+    <text id="cars" need_translate="false" value="Carros"/>
+    <text id="coins" need_translate="false" value="Moedas"/>
+    <text id="crazy" need_translate="false" value="O humor do personagem tem efeito aleatório sobre o preço nas negociações."/>
+    <text id="dark_past" need_translate="false" value="+20% no sucesso do Detetive"/>
+    <text id="dependent" need_translate="false" value="Você conseguirá fechar um negócio muito mais facilmente, reduzindo pela metade o nível de diplomacia do personagem"/>
+    <text id="fearless" need_translate="false" value="-20% no sucesso do Cobrador e do Capanga"/>
+    <text id="friendly" need_translate="false" value="A lealdade do personagem não cairá em caso de negociação fracassada"/>
+    <text id="frigid" need_translate="false" value="-20% no sucesso da Cortesã"/>
+    <text id="fussy" need_translate="false" value="Você terá apenas 1 rodada para fechar um negócio, independentemente da lealdade do personagem e das suas habilidades"/>
+    <text id="heavy" need_translate="false" value="O personagem ficará indisponível por 100 dias após a negociação"/>
+    <text id="holyman" need_translate="false" value="-20% no sucesso do Detetive"/>
+    <text id="honest" need_translate="false" value="É impossível corromper ou fazer lobby se ele ocupa algum cargo público e não é completamente leal a você."/>
+    <text id="horses" need_translate="false" value="Cavalos"/>
+    <text id="houses" need_translate="false" value="Casas"/>
+    <text id="independent" need_translate="false" value="O nível de diplomacia do personagem terá efeito 2 vezes maior no resultado do negócio. Fechar um negócio fica mais difícil"/>
+    <text id="lustful" need_translate="false" value="+20% no sucesso da Cortesã"/>
+    <text id="mercantile" need_translate="false" value="O ágio que o personagem aplica ao preço da ação durante as negociações é 2 vezes maior que o normal."/>
+    <text id="oldfriend" need_translate="false" value="A lealdade do personagem aumenta em {loyalty} a cada trimestre até chegar ao máximo"/>
+    <text id="pictures" need_translate="false" value="Quadros"/>
+    <text id="proud" need_translate="false" value="Não ficará mais leal quando chantageado com provas comprometedoras."/>
+    <text id="restrained" need_translate="false" value="-20% no sucesso do Jornalista"/>
+    <text id="selective" need_translate="false" value="O personagem vai se recusar a encontrar você se a sua reputação for menor que a dele"/>
+    <text id="shy" need_translate="false" value="+20% no sucesso do Cobrador e do Capanga"/>
+    <text id="spender" need_translate="false" value="+20% no sucesso do Gângster"/>
+    <text id="thrifty" need_translate="false" value="-20% no sucesso do Gângster"/>
+    <text id="trophies" need_translate="false" value="Troféus"/>
+    <text id="unknown" need_translate="false" value="Desconhecido. Você precisa investigar o personagem"/>
+    <text id="wasteful" need_translate="false" value="O ágio que o personagem aplica ao preço da ação durante as negociações é 2 vezes menor que o normal."/>
+    <text id="weapons" need_translate="false" value="Armas"/>
+    <text id="yachts" need_translate="false" value="Iates"/>
+  </descriptions>
+  <names>
+    <text id="aggressive" need_translate="false" value="Agressivo"/>
+    <text id="alco_tobacco" need_translate="false" value="Bebidas/tabaco"/>
+    <text id="alcoholic" need_translate="false" value="Alcoólatra"/>
+    <text id="antiques" need_translate="false" value="Antiguidades"/>
+    <text id="atheist" need_translate="false" value="Ateu"/>
+    <text id="believer" need_translate="false" value="Crente"/>
+    <text id="brawler" need_translate="false" value="Exuberante"/>
+    <text id="careful" need_translate="false" value="Cuidadoso"/>
+    <text id="careless" need_translate="false" value="Descuidado"/>
+    <text id="cars" need_translate="false" value="Carros"/>
+    <text id="coins" need_translate="false" value="Moedas"/>
+    <text id="crazy" need_translate="false" value="Alarmista"/>
+    <text id="dark_past" need_translate="false" value="Passado obscuro"/>
+    <text id="dependent" need_translate="false" value="Complacente"/>
+    <text id="fearless" need_translate="false" value="Destemido"/>
+    <text id="friendly" need_translate="false" value="Acalmar"/>
+    <text id="frigid" need_translate="false" value="Frígido"/>
+    <text id="fussy" need_translate="false" value="Exigente"/>
+    <text id="heavy" need_translate="false" value="Forte"/>
+    <text id="holyman" need_translate="false" value="Bom"/>
+    <text id="honest" need_translate="false" value="Honesto"/>
+    <text id="horses" need_translate="false" value="Cavalos"/>
+    <text id="houses" need_translate="false" value="Casas"/>
+    <text id="illegible" need_translate="false" value="Indiscriminado"/>
+    <text id="independent" need_translate="false" value="Carismático"/>
+    <text id="lustful" need_translate="false" value="Devasso"/>
+    <text id="mercantile" need_translate="false" value="Interesseiro"/>
+    <text id="oldfriend" need_translate="false" value="Velho amigo"/>
+    <text id="pictures" need_translate="false" value="Quadros"/>
+    <text id="proud" need_translate="false" value="Orgulhoso"/>
+    <text id="restrained" need_translate="false" value="Contido"/>
+    <text id="selective" need_translate="false" value="Seletivo"/>
+    <text id="shy" need_translate="false" value="Tímido"/>
+    <text id="spender" need_translate="false" value="Perdulário"/>
+    <text id="thrifty" need_translate="false" value="Econômico"/>
+    <text id="trophies" need_translate="false" value="Troféus"/>
+    <text id="wasteful" need_translate="false" value="Imprevidente"/>
+    <text id="weapons" need_translate="false" value="Armas"/>
+    <text id="yachts" need_translate="false" value="Iates"/>
+  </names>
+</persons_characters>

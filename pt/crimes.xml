@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crimes>
+  <crime_type>
+    <text id="burn" need_translate="false" value="Incêndio criminoso"/>
+    <text id="corruption" need_translate="false" value="Corrupção"/>
+    <text id="extortion" need_translate="false" value="Extorsão"/>
+    <text id="manipulation" need_translate="false" value="Manipulação"/>
+    <text id="murder" need_translate="false" value="Assassinato"/>
+    <text id="negligence" need_translate="false" value="Negligência"/>
+    <text id="persecution" need_translate="false" value="Processo judicial"/>
+    <text id="robbery" need_translate="false" value="Roubo"/>
+    <text id="slander" need_translate="false" value="Calúnia"/>
+  </crime_type>
+  <hints>
+    <text id="government_contract" need_translate="false" value="O contrato assinado pelo governador {person} permitirá que a empresa ganhe vantagem competitiva e venda produtos a preços inflacionados durante todo o ano."/>
+    <text id="hint" need_translate="false" value="&lt;br&gt;&lt;br&gt;{hint}"/>
+    <text id="police_chief_deal" need_translate="false" value="O chefe de polícia pode plantar provas para chantagear e manipular um personagem"/>
+    <text id="prosecutor_investigation" need_translate="false" value="Se o promotor for seu fantoche, você pode usá-lo para forçar a renúncia de uma autoridade. Basta abrir uma investigação..."/>
+    <text id="treasurer_grant" need_translate="false" value="O tesoureiro {treasurer} pode oferecer à empresa financiamento preferencial, subsidiando o pagamento de juros dos empréstimos da empresa durante o ano. A força do efeito depende do nível da sua habilidade &quot;Empréstimos&quot;."/>
+    <text id="use_an_agent" need_translate="false" value="Clique neste botão para aplicar um dos agentes à empresa."/>
+  </hints>
+  <other>
+    <text id="applies_to_yourself" need_translate="false" value="Você não pode usar a autoridade dessa forma!"/>
+    <text id="btn_ok" need_translate="false" value="Ok"/>
+    <text id="compromat_already_gained" need_translate="false" value="{person_name} já está comprometido!"/>
+    <text id="contract_already_applied" need_translate="false" value="O contrato governamental com a empresa {company_name} já foi firmado antes de {date}!"/>
+    <text id="corrupted_earlier" need_translate="false" value="Parece que já existe um caso! Talvez volte em {date}"/>
+    <text id="dummy_not_possible" need_translate="false" value="{person_name} nunca ficará completamente leal a você!"/>
+    <text id="grant_already_received" need_translate="false" value="A empresa {company_name} já recebe um subsídio do estado antes de {date}!"/>
+    <text id="honest_person" need_translate="false" value="{person_name} não pode ser corrompido!"/>
+    <text id="influence_requirements" need_translate="false" value="Influência necessária: %1 %2"/>
+    <text id="money_requirements" need_translate="false" value="Valor do suborno: %1"/>
+    <text id="not_enough_evidence" need_translate="false" value="Não há provas comprometedoras para encaminhar o caso ao promotor!"/>
+    <text id="official_is_not_dummy" need_translate="false" value="{official_type} do estado {state} não é leal o bastante a você!"/>
+    <text id="person_is_not_authority" need_translate="false" value="A sujeira só pode ser usada contra autoridades e políticos!"/>
+    <text id="player_is_not_ceo" need_translate="false" value="Você não dirige {company_name} nem a empresa que a controla!"/>
+    <text id="player_is_not_main_shareholder" need_translate="false" value="Você não é acionista majoritário de {company_name}, nem diretamente nem por meio de empresas sob seu controle!"/>
+    <text id="player_is_not_shareholder" need_translate="false" value="Você não é acionista de {company_name}, nem diretamente nem por meio de empresas sob seu controle!"/>
+    <text id="skill_is_not_learned" need_translate="false" value="A habilidade {skill_name} não foi aprendida!"/>
+  </other>
+  <popup>
+    <text id="break_up_strike_popup_fail_header" need_translate="false" value="Repressão"/>
+    <text id="break_up_strike_popup_fail_text" need_translate="false" value="Houve um confronto entre a polícia e os grevistas. A polícia foi obrigada a recuar"/>
+    <text id="break_up_strike_popup_success_header" need_translate="false" value="Repressão"/>
+    <text id="break_up_strike_popup_success_text" need_translate="false" value="A polícia acionou a tropa de choque! Como resultado, os grevistas voltaram aos seus postos de trabalho"/>
+    <text id="hide_accident_popup_fail_header" need_translate="false" value="Encobrir acidente"/>
+    <text id="hide_accident_popup_fail_text" need_translate="false" value="O promotor tentou enterrar o caso, mas parece que o governo forçou a mão dele."/>
+    <text id="hide_accident_popup_success_header" need_translate="false" value="Encobrir acidente"/>
+    <text id="hide_accident_popup_success_text" need_translate="false" value="O promotor usou todo o seu poder para evitar a fiscalização das condições de trabalho"/>
+  </popup>
+</crimes>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+  <Common>
+    <text id="fail" need_translate="false" value="image://rip/ui/Common/FailSuccessStamp/en_fail.png"/>
+    <text id="lobby" need_translate="false" value="image://rip/ui/Common/Icons/en_lobby.png"/>
+    <text id="success" need_translate="false" value="image://rip/ui/Common/FailSuccessStamp/en_success.png"/>
+  </Common>
+  <CompanyNotifications>
+    <text id="accepted" need_translate="false" value="image://rip/ui/CompanyNotifications/notifications/en_accepted.png"/>
+    <text id="refused" need_translate="false" value="image://rip/ui/CompanyNotifications/notifications/en_refused.png"/>
+  </CompanyNotifications>
+  <DiscussionWindow>
+    <text id="loan_denied" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_denied.png"/>
+    <text id="loan_issued" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_issued.png"/>
+    <text id="loan_repaid" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_repaid.png"/>
+    <text id="stamp_bankrupt" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_bankrupt.png"/>
+    <text id="stamp_bought" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_bought.png"/>
+    <text id="stamp_compromised" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_compromised.png"/>
+    <text id="stamp_lobby" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_lobby.png"/>
+    <text id="stamp_puppet" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_puppet.png"/>
+    <text id="stamp_refused" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_refused.png"/>
+    <text id="stamp_sponsored" need_translate="false" value="image://rip/ui/DiscussionWindow/stamp/en_sponsored.png"/>
+  </DiscussionWindow>
+  <HireDirectorPopup>
+    <text id="approved" need_translate="false" value="image://rip/ui/HireDirectorPopup/en_approved.png"/>
+    <text id="rejected" need_translate="false" value="image://rip/ui/HireDirectorPopup/en_rejected.png"/>
+  </HireDirectorPopup>
+  <Logbook>
+    <text id="stamp_complete" need_translate="false" value="image://rip/ui/LogBook/en_complete.png"/>
+    <text id="stamp_defeat" need_translate="false" value="image://rip/ui/LogBook/en_defeat.png"/>
+    <text id="stamp_failed" need_translate="false" value="image://rip/ui/LogBook/en_failed.png"/>
+    <text id="stamp_victory" need_translate="false" value="image://rip/ui/LogBook/en_victory.png"/>
+  </Logbook>
+  <StatePoliticWindow>
+    <text id="stamp_passed" need_translate="false" value="image://rip/ui/StatePoliticWindow/law_stamps/en_passed.png"/>
+    <text id="stamp_rejected" need_translate="false" value="image://rip/ui/StatePoliticWindow/law_stamps/en_rejected.png"/>
+  </StatePoliticWindow>
+</ui>

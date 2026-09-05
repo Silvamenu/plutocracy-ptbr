@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hints>
+  <hint>
+    <text id="10_title" need_translate="false" value="Rentabilidade"/>
+    <text id="10_value" need_translate="false" value="Retorno esperado em relação ao valor dos ativos por trimestre"/>
+    <text id="11_title" need_translate="false" value="Saldo da conta"/>
+    <text id="11_value" need_translate="false" value="Diferença total entre receitas e despesas em um período contábil"/>
+    <text id="12_title" need_translate="false" value="Controle"/>
+    <text id="12_value" need_translate="false" value="O controle da empresa pertence ao acionista que detém participação de controle - 51% ou mais"/>
+    <text id="13_title" need_translate="false" value="Porte da empresa"/>
+    <text id="13_value" need_translate="false" value="O número de funcionários da empresa. Quanto mais funcionários, mais produtos a empresa fabrica"/>
+    <text id="14_title" need_translate="false" value="Rentabilidade"/>
+    <text id="14_value" need_translate="false" value="Quanto maior a rentabilidade, mais dinheiro você receberá por trimestre"/>
+    <text id="15_title" need_translate="false" value="Capitalização"/>
+    <text id="15_value" need_translate="false" value="O valor atual da empresa conforme o valor de mercado das ações dela."/>
+    <text id="16_title" need_translate="false" value="Porte da empresa"/>
+    <text id="16_value" need_translate="false" value="O número de funcionários da empresa. Quanto mais funcionários, mais produtos a empresa fabrica"/>
+    <text id="17_title" need_translate="false" value="Baú de espólio"/>
+    <text id="17_value" need_translate="false" value="Em caso de uma série de negociações, você pode receber um bônus. Se a série de negociações tiver sido bem-sucedida, o bônus potencial será positivo; mas, se houve uma série de negociações malsucedidas, você pode perder alguma coisa."/>
+    <text id="18_title" need_translate="false" value="Agente aplicado"/>
+    <text id="18_value" need_translate="false" value=""/>
+    <text id="19_title" need_translate="false" value="Experiência"/>
+    <text id="19_value" need_translate="false" value="Em caso de negociações bem-sucedidas, será obtida a quantidade de experiência indicada"/>
+    <text id="1_title" need_translate="false" value="Dias"/>
+    <text id="1_value" need_translate="false" value="O tempo é crítico!"/>
+    <text id="20_title" need_translate="false" value="Influência do personagem"/>
+    <text id="20_value" need_translate="false" value="Pontos necessários para interagir com o personagem"/>
+    <text id="21_title" need_translate="false" value="Partido político"/>
+    <text id="21_value" need_translate="false" value="As visões políticas do personagem"/>
+    <text id="22_title" need_translate="false" value="Grupo do personagem"/>
+    <text id="22_value" need_translate="false" value=""/>
+    <text id="23_title" need_translate="false" value="Itens de luxo de que o personagem gosta"/>
+    <text id="23_value" need_translate="false" value="Faça um presente para melhorar sua relação com este personagem"/>
+    <text id="24_title" need_translate="false" value="Humor do personagem"/>
+    <text id="24_value" need_translate="false" value="Afeta o sucesso de um negócio com um personagem"/>
+    <text id="25_title" need_translate="false" value="Itens de luxo de que o personagem gosta"/>
+    <text id="25_value" need_translate="false" value="Faça um presente para melhorar sua relação com este personagem"/>
+    <text id="26_title" need_translate="false" value="Comprador"/>
+    <text id="26_value" need_translate="false" value="Interessado em comprar itens de luxo, ações etc."/>
+    <text id="27_title" need_translate="false" value="Vendedor"/>
+    <text id="27_value" need_translate="false" value="Quer vender itens de luxo, ações etc."/>
+    <text id="28_title" need_translate="false" value="Participação acionária"/>
+    <text id="28_value" need_translate="false" value="Fatia de propriedade da empresa"/>
+    <text id="29_title" need_translate="false" value="Coincidência de interesses"/>
+    <text id="29_value" need_translate="false" value="Afeta a probabilidade de fechar um negócio com um personagem"/>
+    <text id="2_title" need_translate="false" value="Mapa"/>
+    <text id="2_value" need_translate="false" value="Mapa global que permite se deslocar pelo país e pelo mundo"/>
+    <text id="30_title" need_translate="false" value="Prestígio"/>
+    <text id="30_value" need_translate="false" value="Determina a popularidade na sociedade"/>
+    <text id="31_title" need_translate="false" value="Influência"/>
+    <text id="31_value" need_translate="false" value="Se a sua influência for superior à do seu adversário, será muito mais fácil fechar negócios. No entanto, interações fracassadas podem reduzir a sua influência."/>
+    <text id="32_title" need_translate="false" value="Persistência"/>
+    <text id="32_value" need_translate="false" value="A persistência é um recurso precioso. Ela é gasta em ações ativas: deslocamento, negociações etc."/>
+    <text id="33_title" need_translate="false" value="Influência"/>
+    <text id="33_value" need_translate="false" value="Um resumo detalhado da influência que você recebe de diferentes fontes"/>
+    <text id="34_title" need_translate="false" value="Empresas locais"/>
+    <text id="34_value" need_translate="false" value="Uma lista das empresas do estado onde você está."/>
+    <text id="35_title" need_translate="false" value="Finanças"/>
+    <text id="35_value" need_translate="false" value="Resumo financeiro detalhado das suas receitas e despesas"/>
+    <text id="36_title" need_translate="false" value="Comunicações"/>
+    <text id="36_value" need_translate="false" value="Suas conexões com outros personagens"/>
+    <text id="37_title" need_translate="false" value="Itens de luxo"/>
+    <text id="37_value" need_translate="false" value="Ver e gerenciar os itens de luxo disponíveis"/>
+    <text id="38_title" need_translate="false" value="Habilidades"/>
+    <text id="38_value" need_translate="false" value="Aprender novas habilidades com os pontos de conquista obtidos"/>
+    <text id="39_text" need_translate="false" value="Porte da empresa"/>
+    <text id="39_title" need_translate="false" value="Tipo de empresa"/>
+    <text id="3_title" need_translate="false" value="Escritório"/>
+    <text id="3_value" need_translate="false" value="Aprender novas habilidades com pontos de conquista, ver informações financeiras detalhadas e gerenciar seus itens de luxo"/>
+    <text id="40_text" need_translate="false" value="Compre 50% + 1 das ações e obtenha o controle da empresa"/>
+    <text id="40_title" need_translate="false" value="Controle"/>
+    <text id="41_text" need_translate="false" value="Nomeie um CEO qualificado para melhorar a gestão da empresa"/>
+    <text id="41_title" need_translate="false" value="CEO"/>
+    <text id="42_text" need_translate="false" value="O estado onde você está"/>
+    <text id="42_title" need_translate="false" value="Estado"/>
+    <text id="43_text" need_translate="false" value="Os bens e serviços da empresa"/>
+    <text id="43_title" need_translate="false" value="Indústria"/>
+    <text id="44_text" need_translate="false" value="O número de funcionários da empresa que estão executando trabalho no momento."/>
+    <text id="44_title" need_translate="false" value="Trabalhadores da empresa"/>
+    <text id="45_text" need_translate="false" value="O lucro trimestral da empresa como porcentagem do valor de mercado"/>
+    <text id="45_title" need_translate="false" value="Rentabilidade"/>
+    <text id="46_text" need_translate="false" value="O valor atual da empresa conforme o valor de mercado das ações dela."/>
+    <text id="46_title" need_translate="false" value="Capitalização"/>
+    <text id="47_text" need_translate="false" value="O valor de mercado de uma ação da empresa em relação à capitalização dela e ao número de ações em circulação."/>
+    <text id="47_title" need_translate="false" value="Preço da ação"/>
+    <text id="48_title" need_translate="false" value="Velocidade normal"/>
+    <text id="48_value" need_translate="false" value=""/>
+    <text id="49_title" need_translate="false" value="Velocidade rápida"/>
+    <text id="49_value" need_translate="false" value=""/>
+    <text id="4_title" need_translate="false" value="Conquistas"/>
+    <text id="4_value" need_translate="false" value="Suas conquistas"/>
+    <text id="50_title" need_translate="false" value="Até o próximo evento"/>
+    <text id="50_value" need_translate="false" value=""/>
+    <text id="51_title" need_translate="false" value="Um único dia"/>
+    <text id="51_value" need_translate="false" value=""/>
+    <text id="52_title" need_translate="false" value="Bolsa de valores"/>
+    <text id="52_value" need_translate="false" value="Compra e venda de ações pelo preço de mercado"/>
+    <text id="53_title" need_translate="false" value="Menu de pausa"/>
+    <text id="53_value" need_translate="false" value="Salvar, carregar e alterar as configurações do jogo"/>
+    <text id="54_title" need_translate="false" value="Bolsa de valores"/>
+    <text id="54_value" need_translate="false" value="Clique para ir à bolsa de valores"/>
+    <text id="55_title" need_translate="false" value="Bolsa de valores"/>
+    <text id="55_value" need_translate="false" value="Não há escritório no estado"/>
+    <text id="56_title" need_translate="false" value="Menu principal"/>
+    <text id="56_value" need_translate="false" value="Pressione para sair ao menu principal"/>
+    <text id="57_title" need_translate="false" value="Estrutura"/>
+    <text id="57_value" need_translate="false" value="Empresas controladas e as conexões entre elas."/>
+    <text id="5_title" need_translate="false" value="Governo federal"/>
+    <text id="5_value" need_translate="false" value="Fazer lobby por leis, patrocinar políticos ou autoridades"/>
+    <text id="6_title" need_translate="false" value="Notícias"/>
+    <text id="6_value" need_translate="false" value="A cronologia dos eventos do jogo"/>
+    <text id="7_title" need_translate="false" value="Pessoas"/>
+    <text id="7_value" need_translate="false" value="A lista de todos os personagens do jogo, agentes, sujeira e provas coletadas"/>
+    <text id="8_title" need_translate="false" value="Riqueza"/>
+    <text id="8_value" need_translate="false" value="Valor dos ativos líquidos"/>
+    <text id="9_title" need_translate="false" value="Lucro"/>
+    <text id="9_value" need_translate="false" value="A quantidade de dinheiro que você ganha uma vez por trimestre"/>
+  </hint>
+</hints>
