@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authority_settings>
+  <capitol_0>
+    <text id="name" need_translate="false" value="Capitólio"/>
+  </capitol_0>
+  <capitol_10>
+    <text id="name" need_translate="false" value="Capitólio da Geórgia"/>
+  </capitol_10>
+  <capitol_1>
+    <text id="name" need_translate="false" value="Capitólio do Alasca"/>
+  </capitol_1>
+  <capitol_11>
+    <text id="name" need_translate="false" value="Capitólio do Havaí"/>
+  </capitol_11>
+  <capitol_12>
+    <text id="name" need_translate="false" value="Capitólio de Iowa"/>
+  </capitol_12>
+  <capitol_13>
+    <text id="name" need_translate="false" value="Capitólio de Idaho"/>
+  </capitol_13>
+  <capitol_14>
+    <text id="name" need_translate="false" value="Capitólio de Illinois"/>
+  </capitol_14>
+  <capitol_15>
+    <text id="name" need_translate="false" value="Casa Legislativa de Indiana"/>
+  </capitol_15>
+  <capitol_16>
+    <text id="name" need_translate="false" value="Capitólio do Kansas"/>
+  </capitol_16>
+  <capitol_17>
+    <text id="name" need_translate="false" value="Capitólio do Kentucky"/>
+  </capitol_17>
+  <capitol_18>
+    <text id="name" need_translate="false" value="Capitólio da Luisiana"/>
+  </capitol_18>
+  <capitol_19>
+    <text id="name" need_translate="false" value="Casa Legislativa de Massachusetts"/>
+  </capitol_19>
+  <capitol_20>
+    <text id="name" need_translate="false" value="Casa Legislativa de Maryland"/>
+  </capitol_20>
+  <capitol_2>
+    <text id="name" need_translate="false" value="Capitólio do Alabama"/>
+  </capitol_2>
+  <capitol_21>
+    <text id="name" need_translate="false" value="Casa Legislativa do Maine"/>
+  </capitol_21>
+  <capitol_22>
+    <text id="name" need_translate="false" value="Capitólio de Michigan"/>
+  </capitol_22>
+  <capitol_23>
+    <text id="name" need_translate="false" value="Capitólio de Minnesota"/>
+  </capitol_23>
+  <capitol_24>
+    <text id="name" need_translate="false" value="Capitólio do Missouri"/>
+  </capitol_24>
+  <capitol_25>
+    <text id="name" need_translate="false" value="Capitólio do Mississippi"/>
+  </capitol_25>
+  <capitol_26>
+    <text id="name" need_translate="false" value="Capitólio de Montana"/>
+  </capitol_26>
+  <capitol_27>
+    <text id="name" need_translate="false" value="Capitólio da Carolina do Norte"/>
+  </capitol_27>
+  <capitol_28>
+    <text id="name" need_translate="false" value="Capitólio de Dakota do Norte"/>
+  </capitol_28>
+  <capitol_29>
+    <text id="name" need_translate="false" value="Capitólio de Nebraska"/>
+  </capitol_29>
+  <capitol_30>
+    <text id="name" need_translate="false" value="Casa Legislativa de Nova Hampshire"/>
+  </capitol_30>
+  <capitol_3>
+    <text id="name" need_translate="false" value="Capitólio do Arkansas"/>
+  </capitol_3>
+  <capitol_31>
+    <text id="name" need_translate="false" value="Casa Legislativa de Nova Jersey"/>
+  </capitol_31>
+  <capitol_32>
+    <text id="name" need_translate="false" value="Capitólio do Novo México"/>
+  </capitol_32>
+  <capitol_33>
+    <text id="name" need_translate="false" value="Capitólio de Nevada"/>
+  </capitol_33>
+  <capitol_34>
+    <text id="name" need_translate="false" value="Capitólio de Nova York"/>
+  </capitol_34>
+  <capitol_35>
+    <text id="name" need_translate="false" value="Casa Legislativa de Ohio"/>
+  </capitol_35>
+  <capitol_36>
+    <text id="name" need_translate="false" value="Capitólio de Oklahoma"/>
+  </capitol_36>
+  <capitol_37>
+    <text id="name" need_translate="false" value="Capitólio do Oregon"/>
+  </capitol_37>
+  <capitol_38>
+    <text id="name" need_translate="false" value="Capitólio da Pensilvânia"/>
+  </capitol_38>
+  <capitol_39>
+    <text id="name" need_translate="false" value="Casa Legislativa de Rhode Island"/>
+  </capitol_39>
+  <capitol_40>
+    <text id="name" need_translate="false" value="Casa Legislativa da Carolina do Sul"/>
+  </capitol_40>
+  <capitol_4>
+    <text id="name" need_translate="false" value="Capitólio do Arizona"/>
+  </capitol_4>
+  <capitol_41>
+    <text id="name" need_translate="false" value="Capitólio de Dakota do Sul"/>
+  </capitol_41>
+  <capitol_42>
+    <text id="name" need_translate="false" value="Capitólio do Tennessee"/>
+  </capitol_42>
+  <capitol_43>
+    <text id="name" need_translate="false" value="Capitólio do Texas"/>
+  </capitol_43>
+  <capitol_44>
+    <text id="name" need_translate="false" value="Capitólio de Utah"/>
+  </capitol_44>
+  <capitol_45>
+    <text id="name" need_translate="false" value="Capitólio da Virgínia"/>
+  </capitol_45>
+  <capitol_46>
+    <text id="name" need_translate="false" value="Casa Legislativa de Vermont"/>
+  </capitol_46>
+  <capitol_47>
+    <text id="name" need_translate="false" value="Capitólio de Washington"/>
+  </capitol_47>
+  <capitol_48>
+    <text id="name" need_translate="false" value="Capitólio de Wisconsin"/>
+  </capitol_48>
+  <capitol_49>
+    <text id="name" need_translate="false" value="Capitólio da Virgínia Ocidental"/>
+  </capitol_49>
+  <capitol_50>
+    <text id="name" need_translate="false" value="Capitólio de Wyoming"/>
+  </capitol_50>
+  <capitol_5>
+    <text id="name" need_translate="false" value="Capitólio da Califórnia"/>
+  </capitol_5>
+  <capitol_6>
+    <text id="name" need_translate="false" value="Capitólio do Colorado"/>
+  </capitol_6>
+  <capitol_7>
+    <text id="name" need_translate="false" value="Capitólio de Connecticut"/>
+  </capitol_7>
+  <capitol_8>
+    <text id="name" need_translate="false" value="Salão Legislativo de Delaware"/>
+  </capitol_8>
+  <capitol_9>
+    <text id="name" need_translate="false" value="Capitólio da Flórida"/>
+  </capitol_9>
+  <legislature_0>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes"/>
+    <text id="name" need_translate="false" value="Congresso dos EUA"/>
+    <text id="upper_name" need_translate="false" value="Senado dos EUA"/>
+  </legislature_0>
+  <legislature_10>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes da Geórgia"/>
+    <text id="name" need_translate="false" value="Assembleia Geral da Geórgia"/>
+    <text id="upper_name" need_translate="false" value="Senado da Geórgia"/>
+  </legislature_10>
+  <legislature_1>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Alasca"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Alasca"/>
+    <text id="upper_name" need_translate="false" value="Senado do Alasca"/>
+  </legislature_1>
+  <legislature_11>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Havaí"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Havaí"/>
+    <text id="upper_name" need_translate="false" value="Senado do Havaí"/>
+  </legislature_11>
+  <legislature_12>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Iowa"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Iowa"/>
+    <text id="upper_name" need_translate="false" value="Senado de Iowa"/>
+  </legislature_12>
+  <legislature_13>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Idaho"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Idaho"/>
+    <text id="upper_name" need_translate="false" value="Senado de Idaho"/>
+  </legislature_13>
+  <legislature_14>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Illinois"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Illinois"/>
+    <text id="upper_name" need_translate="false" value="Senado de Illinois"/>
+  </legislature_14>
+  <legislature_15>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Indiana"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Indiana"/>
+    <text id="upper_name" need_translate="false" value="Senado de Indiana"/>
+  </legislature_15>
+  <legislature_16>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Kansas"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Kansas"/>
+    <text id="upper_name" need_translate="false" value="Senado do Kansas"/>
+  </legislature_16>
+  <legislature_17>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Kentucky"/>
+    <text id="name" need_translate="false" value="Assembleia Geral do Kentucky"/>
+    <text id="upper_name" need_translate="false" value="Senado do Kentucky"/>
+  </legislature_17>
+  <legislature_18>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes da Luisiana"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa da Luisiana"/>
+    <text id="upper_name" need_translate="false" value="Senado da Luisiana"/>
+  </legislature_18>
+  <legislature_19>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Massachusetts"/>
+    <text id="name" need_translate="false" value="Corte Geral de Massachusetts"/>
+    <text id="upper_name" need_translate="false" value="Senado de Massachusetts"/>
+  </legislature_19>
+  <legislature_20>
+    <text id="lower_name" need_translate="false" value="Câmara dos Delegados de Maryland"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Maryland"/>
+    <text id="upper_name" need_translate="false" value="Senado de Maryland"/>
+  </legislature_20>
+  <legislature_2>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Alabama"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Alabama"/>
+    <text id="upper_name" need_translate="false" value="Senado do Alabama"/>
+  </legislature_2>
+  <legislature_21>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Maine"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Maine"/>
+    <text id="upper_name" need_translate="false" value="Senado do Maine"/>
+  </legislature_21>
+  <legislature_22>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Michigan"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Michigan"/>
+    <text id="upper_name" need_translate="false" value="Senado de Michigan"/>
+  </legislature_22>
+  <legislature_23>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Minnesota"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Minnesota"/>
+    <text id="upper_name" need_translate="false" value="Senado de Minnesota"/>
+  </legislature_23>
+  <legislature_24>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Missouri"/>
+    <text id="name" need_translate="false" value="Assembleia Geral do Missouri"/>
+    <text id="upper_name" need_translate="false" value="Senado do Missouri"/>
+  </legislature_24>
+  <legislature_25>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Mississippi"/>
+    <text id="name" need_translate="false" value="Assembleia Geral do Mississippi"/>
+    <text id="upper_name" need_translate="false" value="Senado do Mississippi"/>
+  </legislature_25>
+  <legislature_26>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Montana"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Montana"/>
+    <text id="upper_name" need_translate="false" value="Senado de Montana"/>
+  </legislature_26>
+  <legislature_27>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes da Carolina do Norte"/>
+    <text id="name" need_translate="false" value="Assembleia Geral da Carolina do Norte"/>
+    <text id="upper_name" need_translate="false" value="Senado da Carolina do Norte"/>
+  </legislature_27>
+  <legislature_28>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Dakota do Norte"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Dakota do Norte"/>
+    <text id="upper_name" need_translate="false" value="Senado de Dakota do Norte"/>
+  </legislature_28>
+  <legislature_29>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Nebraska"/>
+    <text id="upper_name" need_translate="false" value="Senado de Nebraska"/>
+  </legislature_29>
+  <legislature_30>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Nova Hampshire"/>
+    <text id="name" need_translate="false" value="Corte Geral de Nova Hampshire"/>
+    <text id="upper_name" need_translate="false" value="Senado de Nova Hampshire"/>
+  </legislature_30>
+  <legislature_3>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Arkansas"/>
+    <text id="name" need_translate="false" value="Assembleia Geral do Arkansas"/>
+    <text id="upper_name" need_translate="false" value="Senado do Arkansas"/>
+  </legislature_3>
+  <legislature_31>
+    <text id="lower_name" need_translate="false" value="Assembleia Geral de Nova Jersey"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Nova Jersey"/>
+    <text id="upper_name" need_translate="false" value="Senado de Nova Jersey"/>
+  </legislature_31>
+  <legislature_32>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Novo México"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Novo México"/>
+    <text id="upper_name" need_translate="false" value="Senado do Novo México"/>
+  </legislature_32>
+  <legislature_33>
+    <text id="lower_name" need_translate="false" value="Assembleia de Nevada"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Nevada"/>
+    <text id="upper_name" need_translate="false" value="Senado de Nevada"/>
+  </legislature_33>
+  <legislature_34>
+    <text id="lower_name" need_translate="false" value="Assembleia de Nova York"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Nova York"/>
+    <text id="upper_name" need_translate="false" value="Senado de Nova York"/>
+  </legislature_34>
+  <legislature_35>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Ohio"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Ohio"/>
+    <text id="upper_name" need_translate="false" value="Senado de Ohio"/>
+  </legislature_35>
+  <legislature_36>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Oklahoma"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Oklahoma"/>
+    <text id="upper_name" need_translate="false" value="Senado de Oklahoma"/>
+  </legislature_36>
+  <legislature_37>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Oregon"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Oregon"/>
+    <text id="upper_name" need_translate="false" value="Senado do Oregon"/>
+  </legislature_37>
+  <legislature_38>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes da Pensilvânia"/>
+    <text id="name" need_translate="false" value="Assembleia Geral da Pensilvânia"/>
+    <text id="upper_name" need_translate="false" value="Senado da Pensilvânia"/>
+  </legislature_38>
+  <legislature_39>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Rhode Island"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Rhode Island"/>
+    <text id="upper_name" need_translate="false" value="Senado de Rhode Island"/>
+  </legislature_39>
+  <legislature_40>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes da Carolina do Sul"/>
+    <text id="name" need_translate="false" value="Assembleia Geral da Carolina do Sul"/>
+    <text id="upper_name" need_translate="false" value="Senado da Carolina do Sul"/>
+  </legislature_40>
+  <legislature_4>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Arizona"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Arizona"/>
+    <text id="upper_name" need_translate="false" value="Senado do Arizona"/>
+  </legislature_4>
+  <legislature_41>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Dakota do Sul"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Dakota do Sul"/>
+    <text id="upper_name" need_translate="false" value="Senado de Dakota do Sul"/>
+  </legislature_41>
+  <legislature_42>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Tennessee"/>
+    <text id="name" need_translate="false" value="Assembleia Geral do Tennessee"/>
+    <text id="upper_name" need_translate="false" value="Senado do Tennessee"/>
+  </legislature_42>
+  <legislature_43>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Texas"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa do Texas"/>
+    <text id="upper_name" need_translate="false" value="Senado do Texas"/>
+  </legislature_43>
+  <legislature_44>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Utah"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Utah"/>
+    <text id="upper_name" need_translate="false" value="Senado de Utah"/>
+  </legislature_44>
+  <legislature_45>
+    <text id="lower_name" need_translate="false" value="Câmara dos Delegados da Virgínia"/>
+    <text id="name" need_translate="false" value="Assembleia Geral da Virgínia"/>
+    <text id="upper_name" need_translate="false" value="Senado da Virgínia"/>
+  </legislature_45>
+  <legislature_46>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Vermont"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Vermont"/>
+    <text id="upper_name" need_translate="false" value="Senado de Vermont"/>
+  </legislature_46>
+  <legislature_47>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Washington"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Washington"/>
+    <text id="upper_name" need_translate="false" value="Senado de Washington"/>
+  </legislature_47>
+  <legislature_48>
+    <text id="lower_name" need_translate="false" value="Assembleia de Wisconsin"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Wisconsin"/>
+    <text id="upper_name" need_translate="false" value="Senado de Wisconsin"/>
+  </legislature_48>
+  <legislature_49>
+    <text id="lower_name" need_translate="false" value="Câmara dos Delegados da Virgínia Ocidental"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa da Virgínia Ocidental"/>
+    <text id="upper_name" need_translate="false" value="Senado da Virgínia Ocidental"/>
+  </legislature_49>
+  <legislature_50>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Wyoming"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa de Wyoming"/>
+    <text id="upper_name" need_translate="false" value="Senado de Wyoming"/>
+  </legislature_50>
+  <legislature_5>
+    <text id="lower_name" need_translate="false" value="Assembleia da Califórnia"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa da Califórnia"/>
+    <text id="upper_name" need_translate="false" value="Senado da Califórnia"/>
+  </legislature_5>
+  <legislature_6>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes do Colorado"/>
+    <text id="name" need_translate="false" value="Assembleia Geral do Colorado"/>
+    <text id="upper_name" need_translate="false" value="Senado do Colorado"/>
+  </legislature_6>
+  <legislature_7>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Connecticut"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Connecticut"/>
+    <text id="upper_name" need_translate="false" value="Senado de Connecticut"/>
+  </legislature_7>
+  <legislature_8>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes de Delaware"/>
+    <text id="name" need_translate="false" value="Assembleia Geral de Delaware"/>
+    <text id="upper_name" need_translate="false" value="Senado de Delaware"/>
+  </legislature_8>
+  <legislature_9>
+    <text id="lower_name" need_translate="false" value="Câmara dos Representantes da Flórida"/>
+    <text id="name" need_translate="false" value="Assembleia Legislativa da Flórida"/>
+    <text id="upper_name" need_translate="false" value="Senado da Flórida"/>
+  </legislature_9>
+</authority_settings>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_achievements_description>
+  <descriptions>
+    <text id="artificial_manipulator" need_translate="false" value="Contrate %1 assistentes"/>
+    <text id="assets_rank" need_translate="false" value="Ranking TOP-%1"/>
+    <text id="bloody_prince" need_translate="false" value="Realize as ambições de %1 personagens"/>
+    <text id="cashflow_generator" need_translate="false" value="Alcance um fluxo de caixa constante no trimestre - $ %1"/>
+    <text id="collector" need_translate="false" value="Obtenha %1 itens de luxo em uma coleção"/>
+    <text id="combinator" need_translate="false" value="Crie %1 integrações verticais"/>
+    <text id="corrupting_power" need_translate="false" value="Feche %1 acordos corruptos"/>
+    <text id="country_figure" need_translate="false" value="Ajude assistentes a vencer eleições para o Congresso %1 vezes."/>
+    <text id="diplomat_of_devil" need_translate="false" value="Conduza %1 negociações bem-sucedidas"/>
+    <text id="great_raider" need_translate="false" value="Assuma o controle de %1 empresas. Não importa o tipo de empresa"/>
+    <text id="individual" need_translate="false" value="Compre %1% das ações de qualquer empresa (exceto a empresa inicial)."/>
+    <text id="influence_rank" need_translate="false" value="Ranking TOP-%1"/>
+    <text id="local_lobbyist" need_translate="false" value="Faça lobby por %1 leis locais"/>
+    <text id="local_monopolist" need_translate="false" value="Conquiste %1% de participação de mercado em qualquer estado"/>
+    <text id="master_of_secrets" need_translate="false" value="Obtenha %1 provas comprometedoras"/>
+    <text id="plutocrat" need_translate="false" value="Ganhe $%1"/>
+    <text id="political_heavyweight" need_translate="false" value="Faça lobby por %1 leis federais"/>
+    <text id="regional_figure" need_translate="false" value="Ajude assistentes a vencer %1 eleições estaduais."/>
+    <text id="shadow_ruler" need_translate="false" value="Obtenha %1 políticos totalmente leais em nível local ou federal. Autoridades não contam."/>
+    <text id="speculator" need_translate="false" value="Ganhe $ %1 na bolsa de valores (só contam transações com ações pessoais)."/>
+    <text id="techno-boom" need_translate="false" value="Faça com que %1 tecnologia da empresa em que você tem participação de controle fique em primeiro lugar em desenvolvimento.;Faça com que %2 tecnologias da empresa em que você tem participação de controle fiquem em primeiro lugar em desenvolvimento.;Faça com que %1 tecnologias da empresa em que você detém a maioria fiquem em primeiro lugar em desenvolvimento."/>
+    <text id="themis_master" need_translate="false" value="Cancele %1 sentenças"/>
+    <text id="us_monopolist" need_translate="false" value="Conquiste %1% de participação no mercado dos EUA"/>
+    <text id="walk_in_all_doors" need_translate="false" value="Obtenha %1 autoridades totalmente leais. Políticos não contam."/>
+    <text id="world_monopolist" need_translate="false" value="Conquiste %1% de participação no mercado mundial"/>
+  </descriptions>
+  <descriptions_complete>
+    <text id="artificial_manipulator" need_translate="false" value="Você contratou %1 assistentes."/>
+    <text id="assets_rank" need_translate="false" value="Você está no ranking TOP-%1."/>
+    <text id="bloody_prince" need_translate="false" value="Você realizou as ambições de %1 personagens."/>
+    <text id="cashflow_generator" need_translate="false" value="Você alcançou fluxo de caixa regular no trimestre - $ %1"/>
+    <text id="collector" need_translate="false" value="Você obteve %1 itens de luxo."/>
+    <text id="combinator" need_translate="false" value="Você criou %1 integrações verticais."/>
+    <text id="corrupting_power" need_translate="false" value="Você fechou %1 acordos corruptos."/>
+    <text id="country_figure" need_translate="false" value="Você lançou %1 assistentes no país."/>
+    <text id="diplomat_of_devil" need_translate="false" value="Você conduziu %1 negociações bem-sucedidas."/>
+    <text id="great_raider" need_translate="false" value="Você assumiu o controle de %1 empresa(s)."/>
+    <text id="individual" need_translate="false" value="Você comprou %1% das ações da empresa."/>
+    <text id="influence_rank" need_translate="false" value="Você está no ranking TOP-%1"/>
+    <text id="local_lobbyist" need_translate="false" value="Você fez lobby por %1 leis locais."/>
+    <text id="local_monopolist" need_translate="false" value="Você conquistou %1% de participação de mercado no estado."/>
+    <text id="master_of_secrets" need_translate="false" value="Você obteve %1 provas comprometedoras."/>
+    <text id="plutocrat" need_translate="false" value="Você ganhou $%1."/>
+    <text id="political_heavyweight" need_translate="false" value="Você fez lobby por %1 leis federais."/>
+    <text id="regional_figure" need_translate="false" value="Você lançou %1 assistentes no estado."/>
+    <text id="shadow_ruler" need_translate="false" value="Você conseguiu %1 políticos completamente leais."/>
+    <text id="speculator" need_translate="false" value="Você ganhou $ %1 na bolsa"/>
+    <text id="techno-boom" need_translate="false" value="Você desenvolveu %1 tecnologia;Você desenvolveu %1 tecnologias;Você desenvolveu %1 tecnologias"/>
+    <text id="themis_master" need_translate="false" value="Você cancelou %1 sentenças."/>
+    <text id="us_monopolist" need_translate="false" value="Você conquistou %1% de participação no mercado dos EUA."/>
+    <text id="walk_in_all_doors" need_translate="false" value="Você conseguiu %1 autoridades completamente leais."/>
+    <text id="world_monopolist" need_translate="false" value="Você conquistou %1% de participação no mercado mundial."/>
+  </descriptions_complete>
+  <names>
+    <text id="artificial_manipulator" need_translate="false" value="Manipulador habilidoso"/>
+    <text id="assets_rank" need_translate="false" value="Topo do ranking de riqueza"/>
+    <text id="bloody_prince" need_translate="false" value="Realizador de desejos"/>
+    <text id="cashflow_generator" need_translate="false" value="Gerador de fluxo de caixa"/>
+    <text id="collector" need_translate="false" value="Cobrador"/>
+    <text id="combinator" need_translate="false" value="Negociante de peso"/>
+    <text id="corrupting_power" need_translate="false" value="Autoridade corruptora"/>
+    <text id="country_figure" need_translate="false" value="Figura poderosa dos EUA"/>
+    <text id="diplomat_of_devil" need_translate="false" value="Diplomata consumado"/>
+    <text id="great_raider" need_translate="false" value="Grande invasor"/>
+    <text id="individual" need_translate="false" value="Dono exclusivo"/>
+    <text id="influence_rank" need_translate="false" value="Topo do ranking de influência"/>
+    <text id="local_lobbyist" need_translate="false" value="Lobista local"/>
+    <text id="local_monopolist" need_translate="false" value="Monopolista local"/>
+    <text id="master_of_secrets" need_translate="false" value="Guardião de Segredos"/>
+    <text id="plutocrat" need_translate="false" value="Plutocrata"/>
+    <text id="political_heavyweight" need_translate="false" value="Articulador político"/>
+    <text id="regional_figure" need_translate="false" value="Figura regional"/>
+    <text id="shadow_ruler" need_translate="false" value="Governante das sombras"/>
+    <text id="speculator" need_translate="false" value="Especulador"/>
+    <text id="techno-boom" need_translate="false" value="Boom tecnológico"/>
+    <text id="themis_master" need_translate="false" value="Mestre de Têmis"/>
+    <text id="us_monopolist" need_translate="false" value="Monopolista dos EUA"/>
+    <text id="walk_in_all_doors" need_translate="false" value="Pessoa influente"/>
+    <text id="world_monopolist" need_translate="false" value="Monopolista global"/>
+  </names>
+  <progress_text>
+    <text id="artificial_manipulator" need_translate="false" value="Assistentes contratados:"/>
+    <text id="assets_rank" need_translate="false" value="Posição atual:"/>
+    <text id="bloody_prince" need_translate="false" value="Ambições realizadas:"/>
+    <text id="cashflow_generator" need_translate="false" value="Fluxo de caixa:"/>
+    <text id="collector" need_translate="false" value="Itens de luxo obtidos:"/>
+    <text id="combinator" need_translate="false" value="Integrações verticais:"/>
+    <text id="corrupting_power" need_translate="false" value="Acordos de corrupção:"/>
+    <text id="country_figure" need_translate="false" value="Vitórias no Congresso:"/>
+    <text id="diplomat_of_devil" need_translate="false" value="Negociações conduzidas:"/>
+    <text id="great_raider" need_translate="false" value="Controle de empresas:"/>
+    <text id="individual" need_translate="false" value="Participação acionária comprada:"/>
+    <text id="influence_rank" need_translate="false" value="Posição atual:"/>
+    <text id="local_lobbyist" need_translate="false" value="Lobby de leis locais:"/>
+    <text id="local_monopolist" need_translate="false" value="Participação de mercado no estado:"/>
+    <text id="master_of_secrets" need_translate="false" value="Provas comprometedoras obtidas:"/>
+    <text id="plutocrat" need_translate="false" value="Riqueza:"/>
+    <text id="political_heavyweight" need_translate="false" value="Lobby de leis federais:"/>
+    <text id="regional_figure" need_translate="false" value="Vitórias locais:"/>
+    <text id="shadow_ruler" need_translate="false" value="Políticos leais:"/>
+    <text id="speculator" need_translate="false" value="Ganhos com negociação:"/>
+    <text id="techno-boom" need_translate="false" value="Tecnologias desenvolvidas:"/>
+    <text id="themis_master" need_translate="false" value="Sentenças canceladas:"/>
+    <text id="us_monopolist" need_translate="false" value="Participação de mercado nos EUA:"/>
+    <text id="walk_in_all_doors" need_translate="false" value="Autoridades leais:"/>
+    <text id="world_monopolist" need_translate="false" value="Participação de mercado no mundo:"/>
+  </progress_text>
+  <short_descriptions>
+    <text id="artificial_manipulator" need_translate="false" value="%1 assistente;%1 assistentes;%1 assistentes"/>
+    <text id="assets_rank" need_translate="false" value="TOP-%1"/>
+    <text id="bloody_prince" need_translate="false" value="%1 ambições;%1 ambições;%1 ambições"/>
+    <text id="cashflow_generator" need_translate="false" value="%1"/>
+    <text id="collector" need_translate="false" value="%1 item;%1 itens;%1 itens"/>
+    <text id="combinator" need_translate="false" value="%1 holding;%1 holdings;%1 holdings"/>
+    <text id="corrupting_power" need_translate="false" value="%1 acordo;%1 acordos;%1 acordos"/>
+    <text id="country_figure" need_translate="false" value="%1 vitória;%1 vitórias;%1 vitórias"/>
+    <text id="diplomat_of_devil" need_translate="false" value="%1 negociações"/>
+    <text id="great_raider" need_translate="false" value="%1 empresa;%1 empresas;%1 empresas"/>
+    <text id="individual" need_translate="false" value="%1% das ações"/>
+    <text id="influence_rank" need_translate="false" value="TOP-%1"/>
+    <text id="local_lobbyist" need_translate="false" value="%1 lei;%1 leis;%1 leis"/>
+    <text id="local_monopolist" need_translate="false" value="%1% de participação de mercado"/>
+    <text id="master_of_secrets" need_translate="false" value="%1 sujeiras"/>
+    <text id="plutocrat" need_translate="false" value="Riqueza $%1"/>
+    <text id="political_heavyweight" need_translate="false" value="%1 lei;%1 leis;%1 leis"/>
+    <text id="regional_figure" need_translate="false" value="%1 vitória;%1 vitórias;%1 vitórias"/>
+    <text id="shadow_ruler" need_translate="false" value="%1 personagens leais; %1 personagens leais; %1 personagens leais"/>
+    <text id="speculator" need_translate="false" value="$ %1"/>
+    <text id="techno-boom" need_translate="false" value="%1 tecnologia;%1 tecnologias;%1 tecnologias"/>
+    <text id="themis_master" need_translate="false" value="%1 decisão judicial;%1 decisões judiciais;%1 decisões judiciais"/>
+    <text id="us_monopolist" need_translate="false" value="%1% de participação de mercado"/>
+    <text id="walk_in_all_doors" need_translate="false" value="%1 personagens leais; %1 personagens leais; %1 personagens leais"/>
+    <text id="world_monopolist" need_translate="false" value="%1% de participação de mercado"/>
+  </short_descriptions>
+</player_achievements_description>

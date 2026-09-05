@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company_settings>
+  <sector_1>
+    <text id="description" need_translate="false" value="-"/>
+    <text id="name" need_translate="false" value="Setor de extração de petróleo"/>
+  </sector_1>
+  <sector_2>
+    <text id="description" need_translate="false" value="-"/>
+    <text id="name" need_translate="false" value="Setor de refino de petróleo"/>
+  </sector_2>
+  <sector_3>
+    <text id="description" need_translate="false" value="-"/>
+    <text id="name" need_translate="false" value="Serviços"/>
+  </sector_3>
+  <sector_4>
+    <text id="description" need_translate="false" value="-"/>
+    <text id="name" need_translate="false" value="Finanças"/>
+  </sector_4>
+  <size_1>
+    <text id="name" need_translate="false" value="Pequena"/>
+  </size_1>
+  <size_2>
+    <text id="name" need_translate="false" value="Média"/>
+  </size_2>
+  <size_3>
+    <text id="name" need_translate="false" value="Grande"/>
+  </size_3>
+  <type_0>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa de transporte"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas de transporte"/>
+    <text id="short_name" need_translate="false" value="Transporte"/>
+  </type_0>
+  <type_1>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa de extração de petróleo"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas de extração de petróleo"/>
+    <text id="short_name" need_translate="false" value="Extração de petróleo"/>
+  </type_1>
+  <type_2>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa de refino de petróleo"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas de refino de petróleo"/>
+    <text id="short_name" need_translate="false" value="Refino de petróleo"/>
+  </type_2>
+  <type_3>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa de mineração de ferro"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas de mineração de ferro"/>
+    <text id="short_name" need_translate="false" value="Mineração de ferro"/>
+  </type_3>
+  <type_4>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa metalúrgica"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas metalúrgicas"/>
+    <text id="short_name" need_translate="false" value="Metalurgia"/>
+  </type_4>
+  <type_5>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa de mineração de carvão"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas de mineração de carvão"/>
+    <text id="short_name" need_translate="false" value="Mineração de carvão"/>
+  </type_5>
+  <type_6>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa bancária"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas bancárias"/>
+    <text id="short_name" need_translate="false" value="Banco"/>
+  </type_6>
+  <type_7>
+    <text id="description" need_translate="false" value=""/>
+    <text id="name" need_translate="false" value="Empresa de mídia"/>
+    <text id="name_in_plural" need_translate="false" value="Empresas de mídia"/>
+    <text id="short_name" need_translate="false" value="Mídia"/>
+  </type_7>
+</company_settings>
